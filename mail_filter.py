@@ -168,19 +168,21 @@ RULE_REGEX = [like_to_regex(p) for p in IMPORTANT_LIKE_RULES]
 
 def load_accounts_from_env():
     accounts = []
-    i = 1
 
-    while True:
+    # 本地运行时可从 .env 读取
+    # GitHub Actions 运行时可从 Secrets 读取
+    for i in range(1, 20):
         email_addr = os.getenv(f"EMAIL_{i}")
         password = os.getenv(f"PASSWORD_{i}")
         host = os.getenv(f"HOST_{i}")
 
-        if not email_addr:
-            break
+        # 三个都空，跳过继续往后找
+        if not email_addr and not password and not host:
+            continue
 
-        if not password or not host:
+        # 有任意一个值，但不完整，给出警告
+        if not (email_addr and password and host):
             print(f"警告：第 {i} 组邮箱配置不完整，已跳过")
-            i += 1
             continue
 
         accounts.append({
@@ -189,10 +191,9 @@ def load_accounts_from_env():
             "user": email_addr.strip(),
             "password": password.strip(),
         })
-        i += 1
 
     if not accounts:
-        raise SystemExit("在 .env 里找不到 EMAIL_1 / PASSWORD_1 / HOST_1 这样的配置")
+        raise SystemExit("没有读取到任何邮箱配置，请检查本地 .env 或 GitHub Secrets 是否已设置 EMAIL_x / PASSWORD_x / HOST_x")
 
     return accounts
 
