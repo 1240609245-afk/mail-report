@@ -26,7 +26,7 @@ jobs:
       - name: 安装依赖
         run: pip install python-dotenv openpyxl
 
-      # ✅ 检查环境变量（已修复，不会再报错）
+      # ✅ 检查环境变量（防止没配成功）
       - name: 检查环境变量
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
@@ -59,11 +59,11 @@ jobs:
 
         run: python mail_filter.py
 
-      # ✅ 提交生成的网页（让你的网站更新）
+      # ✅ 提交更新（已修复权限问题）
       - name: 提交更新
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
           git add .
           git commit -m "update report" || echo "no changes"
-          git push
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
