@@ -1,7 +1,14 @@
-name: Mail Filter NEW
+name: 邮件过滤器 新
 
 on:
   workflow_dispatch:
+  schedule:
+    # 北京时间 06:00
+    - cron: '0 22 * * *'
+    # 北京时间 12:00
+    - cron: '0 4 * * *'
+    # 北京时间 21:00
+    - cron: '0 13 * * *'
 
 jobs:
   run:
@@ -17,7 +24,8 @@ jobs:
           python-version: '3.10'
 
       - name: 安装依赖
-        run: pip install python-dotenv openpyxl
+        run: |
+          pip install python-dotenv openpyxl
 
       - name: 检查环境变量
         env:
@@ -25,23 +33,36 @@ jobs:
           PASSWORD_1: ${{ secrets.PASSWORD_1 }}
           HOST_1: ${{ secrets.HOST_1 }}
         run: |
-          python -c "import os; print('EMAIL_1 exists:', bool(os.getenv('EMAIL_1'))); print('PASSWORD_1 exists:', bool(os.getenv('PASSWORD_1'))); print('HOST_1 exists:', bool(os.getenv('HOST_1')))"
+          python - <<EOF
+import os
+print("EMAIL_1 exists:", bool(os.getenv("EMAIL_1")))
+print("PASSWORD_1 exists:", bool(os.getenv("PASSWORD_1")))
+print("HOST_1 exists:", bool(os.getenv("HOST_1")))
+EOF
 
       - name: 运行脚本
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
           PASSWORD_1: ${{ secrets.PASSWORD_1 }}
           HOST_1: ${{ secrets.HOST_1 }}
+
           EMAIL_2: ${{ secrets.EMAIL_2 }}
           PASSWORD_2: ${{ secrets.PASSWORD_2 }}
           HOST_2: ${{ secrets.HOST_2 }}
+
           EMAIL_3: ${{ secrets.EMAIL_3 }}
           PASSWORD_3: ${{ secrets.PASSWORD_3 }}
           HOST_3: ${{ secrets.HOST_3 }}
+
           EMAIL_4: ${{ secrets.EMAIL_4 }}
           PASSWORD_4: ${{ secrets.PASSWORD_4 }}
           HOST_4: ${{ secrets.HOST_4 }}
+
           EMAIL_5: ${{ secrets.EMAIL_5 }}
           PASSWORD_5: ${{ secrets.PASSWORD_5 }}
           HOST_5: ${{ secrets.HOST_5 }}
-        run: python mail_filter.py
+        run: |
+          python mail_filter.py
+
+      - name: 完成
+        run: echo "任务执行完成 ✅"
