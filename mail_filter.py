@@ -6,6 +6,8 @@ import email
 import os
 import html
 import shutil
+import time
+import random
 from email.header import decode_header, make_header
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -14,7 +16,8 @@ from dotenv import load_dotenv
 # 解决部分邮件 "line too long" 问题
 poplib._MAXLINE = 1024 * 1024
 
-load_dotenv()
+# 强制覆盖旧环境变量
+load_dotenv(override=True)
 
 
 # =========================
@@ -175,16 +178,9 @@ def load_accounts_from_env():
     print("=" * 60)
 
     for i in range(1, 20):
-        email_addr = os.getenv(f"EMAIL_{i}")
-        password = os.getenv(f"PASSWORD_{i}")
-        host = os.getenv(f"HOST_{i}")
-
-        print(
-            f"[DEBUG] 第{i}组: "
-            f"EMAIL_{i}={bool(email_addr)}, "
-            f"PASSWORD_{i}={bool(password)}, "
-            f"HOST_{i}={bool(host)}"
-        )
+        email_addr = os.getenv(f"EMAIL_{i}", "").strip()
+        password = os.getenv(f"PASSWORD_{i}", "").strip()
+        host = os.getenv(f"HOST_{i}", "").strip()
 
         if not email_addr and not password and not host:
             continue
@@ -192,10 +188,6 @@ def load_accounts_from_env():
         if not (email_addr and password and host):
             print(f"警告：第 {i} 组邮箱配置不完整，已跳过")
             continue
-
-        email_addr = email_addr.strip()
-        password = password.strip()
-        host = host.strip()
 
         accounts.append({
             "name": f"account_{i}",
@@ -207,9 +199,7 @@ def load_accounts_from_env():
         print(f"已加载邮箱配置：account_{i} -> {email_addr} / {host}")
 
     if not accounts:
-        raise SystemExit(
-            "没有读取到任何邮箱配置，请检查本地 .env 或 GitHub Secrets 是否已设置 EMAIL_x / PASSWORD_x / HOST_x"
-        )
+        raise SystemExit("没有读取到任何邮箱配置，请检查 .env 或 GitHub Secrets")
 
     print("-" * 60)
     print(f"共加载成功 {len(accounts)} 个邮箱配置")
@@ -530,6 +520,33 @@ def count_rows_by_bucket(rows):
     return today_count, last7_count, all_count
 
 
+def login_with_retry(host, user, password, retries=3, delay=4):
+    last_error = None
+
+    for attempt in range(1, retries + 1):
+        server = None
+        try:
+            print(f"尝试登录，第 {attempt}/{retries} 次：{user} @ {host}")
+            server = poplib.POP3_SSL(host, 995, timeout=30)
+            server.user(user)
+            server.pass_(password)
+            return server
+        except Exception as e:
+            last_error = e
+            print(f"登录失败，第 {attempt} 次：{e}")
+            try:
+                if server:
+                    server.quit()
+            except Exception:
+                pass
+
+            if attempt < retries:
+                print(f"等待 {delay} 秒后重试...")
+                time.sleep(delay)
+
+    raise Exception(f"多次尝试仍无法登录：{last_error}")
+
+
 def generate_html_report(rows, account_summary, report_time_str, html_filename, title):
     total_mail = sum(x.get("mail_count", 0) for x in account_summary)
     total_hit = sum(x.get("hit_count", 0) for x in account_summary)
@@ -574,6 +591,7 @@ def generate_html_report(rows, account_summary, report_time_str, html_filename, 
             <td>{item.get("mail_count", 0)}</td>
             <td>{item.get("hit_count", 0)}</td>
             <td>{item.get("skipped_count", 0)}</td>
+            <td>{html.escape(item.get("login_status", ""))}</td>
         </tr>
         """
 
@@ -888,7 +906,7 @@ def generate_html_report(rows, account_summary, report_time_str, html_filename, 
             <div class="top-title">{html.escape(title)}</div>
             <div class="top-desc">
                 生成时间：{html.escape(report_time_str)}<br>
-                今日 / 最近7天 / 全部，均基于本次运行时五个邮箱当前全部邮件重新扫描统计。
+                今日 / 最近7天 / 全部，均基于本次运行时所有邮箱当前全部邮件重新扫描统计。
             </div>
         </div>
 
@@ -977,6 +995,7 @@ def generate_html_report(rows, account_summary, report_time_str, html_filename, 
                         <th>邮件总数</th>
                         <th>命中</th>
                         <th>跳过</th>
+                        <th>登录状态</th>
                     </tr>
                 </thead>
                 <tbody>
@@ -1043,6 +1062,15 @@ def generate_html_report(rows, account_summary, report_time_str, html_filename, 
 # =========================
 def main():
     accounts = load_accounts_from_env()
+
+    # 打乱顺序，降低固定顺序触发风控概率
+    random.shuffle(accounts)
+
+    print("\n===== 实际读取到的邮箱配置 =====")
+    for acct in accounts:
+        print(f'{acct["name"]} | {acct["user"]} | {acct["host"]} | 密码长度={len(acct["password"])}')
+    print("=" * 60)
+
     today_str = datetime.now().strftime("%Y-%m-%d")
     report_time_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -1062,14 +1090,16 @@ def main():
         server = None
 
         try:
-            print(f"正在连接服务器：{host}:995")
-            server = poplib.POP3_SSL(host, 995, timeout=30)
-            server.user(user)
-            server.pass_(password)
+            print(f"准备连接 HOST: {host}")
+            print(f"登录邮箱: {user}")
+            print(f"密码长度: {len(password)}")
+
+            server = login_with_retry(host, user, password, retries=3, delay=4)
             print(f"[{name}] 登录成功")
 
             resp, uid_lines, octets = server.uidl()
             uid_map = {}
+
             for line in uid_lines:
                 parts = line.decode("utf-8", errors="replace").split()
                 if len(parts) >= 2:
@@ -1126,6 +1156,7 @@ def main():
                 "mail_count": len(msg_nums),
                 "hit_count": hit_count,
                 "skipped_count": skipped_count,
+                "login_status": "成功",
             })
 
             print(f"[{name}] 邮件总数 {len(msg_nums)} 封，命中 {hit_count} 封，跳过 {skipped_count} 封")
@@ -1138,6 +1169,7 @@ def main():
                 "mail_count": 0,
                 "hit_count": 0,
                 "skipped_count": 0,
+                "login_status": f"失败：{e}",
             })
 
         finally:
@@ -1147,11 +1179,8 @@ def main():
                 except Exception:
                     pass
 
-    dedup = {}
-    for row in all_important_rows:
-        key = (row["account"], row["subject"], row["date"], row["uid"])
-        dedup[key] = row
-    final_rows = list(dedup.values())
+            print("等待 3 秒，准备检查下一个邮箱...")
+            time.sleep(3)
 
     category_rank = {
         "店铺绩效类": 1,
@@ -1162,6 +1191,7 @@ def main():
         "货件/库存类": 6,
         "其他风险类": 7,
     }
+
     bucket_rank = {
         "today": 1,
         "last7": 2,
@@ -1169,7 +1199,7 @@ def main():
         "unknown": 4,
     }
 
-    final_rows.sort(
+    all_important_rows.sort(
         key=lambda x: (
             bucket_rank.get(x.get("time_bucket", "unknown"), 99),
             category_rank.get(x["category"], 99),
@@ -1178,7 +1208,7 @@ def main():
         )
     )
 
-    for row in final_rows:
+    for row in all_important_rows:
         row.pop("_sort_dt", None)
 
     print("\n" + "=" * 60)
@@ -1197,7 +1227,8 @@ def main():
             f'{item["account"]} ({item["user"]})：'
             f'邮件总数 {item["mail_count"]} 封，'
             f'命中 {item["hit_count"]} 封，'
-            f'跳过 {item["skipped_count"]} 封'
+            f'跳过 {item["skipped_count"]} 封，'
+            f'登录状态：{item.get("login_status", "")}'
         )
 
     print("-" * 60)
@@ -1220,7 +1251,7 @@ def main():
             ]
         )
         writer.writeheader()
-        for row in final_rows:
+        for row in all_important_rows:
             writer.writerow({
                 "category": row.get("category", ""),
                 "time_bucket": row.get("time_bucket", ""),
@@ -1237,12 +1268,12 @@ def main():
             })
 
     with open(json_name, "w", encoding="utf-8") as f:
-        json.dump(final_rows, f, ensure_ascii=False, indent=2)
+        json.dump(all_important_rows, f, ensure_ascii=False, indent=2)
 
-    xlsx_ok = save_xlsx_if_possible(final_rows, xlsx_name)
+    xlsx_ok = save_xlsx_if_possible(all_important_rows, xlsx_name)
 
     generate_html_report(
-        rows=final_rows,
+        rows=all_important_rows,
         account_summary=account_summary,
         report_time_str=report_time_str,
         html_filename=html_name,
@@ -1250,7 +1281,7 @@ def main():
     )
 
     print("-" * 60)
-    print(f"当前五个邮箱总命中 {len(final_rows)} 封")
+    print(f"当前所有邮箱总命中 {len(all_important_rows)} 封")
     print(f"已生成：{csv_name}")
     print(f"已生成：{json_name}")
     print(f"已生成：{html_name}")
