@@ -5,6 +5,7 @@ import poplib
 import email
 import os
 import html
+import shutil
 from email.header import decode_header, make_header
 from datetime import datetime, timedelta
 from email.utils import parsedate_to_datetime
@@ -169,31 +170,50 @@ RULE_REGEX = [like_to_regex(p) for p in IMPORTANT_LIKE_RULES]
 def load_accounts_from_env():
     accounts = []
 
-    # 本地运行时可从 .env 读取
-    # GitHub Actions 运行时可从 Secrets 读取
+    print("=" * 60)
+    print("开始读取邮箱环境变量配置")
+    print("=" * 60)
+
     for i in range(1, 20):
         email_addr = os.getenv(f"EMAIL_{i}")
         password = os.getenv(f"PASSWORD_{i}")
         host = os.getenv(f"HOST_{i}")
 
-        # 三个都空，跳过继续往后找
+        print(
+            f"[DEBUG] 第{i}组: "
+            f"EMAIL_{i}={bool(email_addr)}, "
+            f"PASSWORD_{i}={bool(password)}, "
+            f"HOST_{i}={bool(host)}"
+        )
+
         if not email_addr and not password and not host:
             continue
 
-        # 有任意一个值，但不完整，给出警告
         if not (email_addr and password and host):
             print(f"警告：第 {i} 组邮箱配置不完整，已跳过")
             continue
 
+        email_addr = email_addr.strip()
+        password = password.strip()
+        host = host.strip()
+
         accounts.append({
             "name": f"account_{i}",
-            "host": host.strip(),
-            "user": email_addr.strip(),
-            "password": password.strip(),
+            "host": host,
+            "user": email_addr,
+            "password": password,
         })
 
+        print(f"已加载邮箱配置：account_{i} -> {email_addr} / {host}")
+
     if not accounts:
-        raise SystemExit("没有读取到任何邮箱配置，请检查本地 .env 或 GitHub Secrets 是否已设置 EMAIL_x / PASSWORD_x / HOST_x")
+        raise SystemExit(
+            "没有读取到任何邮箱配置，请检查本地 .env 或 GitHub Secrets 是否已设置 EMAIL_x / PASSWORD_x / HOST_x"
+        )
+
+    print("-" * 60)
+    print(f"共加载成功 {len(accounts)} 个邮箱配置")
+    print("=" * 60)
 
     return accounts
 
@@ -293,7 +313,6 @@ def extract_body_text(msg, max_len=None):
                     html_parts.append(html_to_text(text))
                 else:
                     plain_parts.append(text)
-
     except Exception:
         pass
 
@@ -1136,9 +1155,11 @@ def main():
         server = None
 
         try:
+            print(f"正在连接服务器：{host}:995")
             server = poplib.POP3_SSL(host, 995, timeout=30)
             server.user(user)
             server.pass_(password)
+            print(f"[{name}] 登录成功")
 
             resp, uid_lines, octets = server.uidl()
             uid_map = {}
@@ -1304,7 +1325,6 @@ def main():
     xlsx_name = f"important_mails_{today_str}.xlsx"
     json_name = f"important_mails_{today_str}.json"
 
-    # 保存本次结果文件（即使为空也保存）
     with open(csv_name, "w", encoding="utf-8-sig", newline="") as f:
         writer = csv.DictWriter(
             f,
@@ -1336,11 +1356,9 @@ def main():
 
     xlsx_ok = save_xlsx_if_possible(final_rows, xlsx_name)
 
-    # 只有本次有新增命中，才追加到历史
     if final_rows:
         append_log(final_rows, "important_mails_history.json")
 
-    # 网页读取历史累计
     history_rows = load_history("important_mails_history.json")
     history_rows = dedup_and_prepare_history(history_rows)
 
@@ -1366,22 +1384,14 @@ def main():
     else:
         print("未生成 xlsx（先运行：pip install openpyxl）")
 
+    if os.path.exists(html_name):
+        shutil.copy(html_name, "index.html")
+        print(f"已同步网页首页: {html_name} -> index.html")
+    else:
+        print(f"未找到HTML文件，无法复制: {html_name}")
+
     print("=" * 60)
 
 
 if __name__ == "__main__":
     main()
-
-    import os
-    import shutil
-    from datetime import datetime
-
-    today = datetime.now().strftime("%Y-%m-%d")
-    src = f"important_mails_{today}.html"
-    dst = "index.html"
-
-    if os.path.exists(src):
-        shutil.copy(src, dst)
-        print(f"已同步网页首页: {src} -> {dst}")
-    else:
-        print(f"未找到HTML文件，无法复制: {src}")
