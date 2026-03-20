@@ -11,15 +11,23 @@ jobs:
 
     steps:
       - name: 拉取代码
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 安装 Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
       - name: 安装依赖
         run: pip install python-dotenv openpyxl
+
+      - name: 检查环境变量
+        run: |
+          python -c "import os; print('EMAIL_1 exists:', bool(os.getenv('EMAIL_1'))); print('PASSWORD_1 exists:', bool(os.getenv('PASSWORD_1'))); print('HOST_1 exists:', bool(os.getenv('HOST_1')))"
+        env:
+          EMAIL_1: ${{ secrets.EMAIL_1 }}
+          PASSWORD_1: ${{ secrets.PASSWORD_1 }}
+          HOST_1: ${{ secrets.HOST_1 }}
 
       - name: 运行脚本
         env:
