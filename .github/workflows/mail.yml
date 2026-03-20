@@ -3,12 +3,12 @@ name: 邮件过滤器 新
 on:
   workflow_dispatch:
   schedule:
-    # 北京时间 06:00
-    - cron: '0 22 * * *'
-    # 北京时间 12:00
-    - cron: '0 4 * * *'
-    # 北京时间 21:00
-    - cron: '0 13 * * *'
+    - cron: '0 22 * * *'  # 北京时间 06:00
+    - cron: '0 4 * * *'   # 北京时间 12:00
+    - cron: '0 13 * * *'  # 北京时间 21:00
+
+permissions:
+  contents: write
 
 jobs:
   run:
@@ -17,6 +17,8 @@ jobs:
     steps:
       - name: 拉取代码
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
       - name: 安装 Python
         uses: actions/setup-python@v5
@@ -26,7 +28,6 @@ jobs:
       - name: 安装依赖
         run: pip install python-dotenv openpyxl
 
-      # ✅ 检查环境变量（防止没配成功）
       - name: 检查环境变量
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
@@ -34,7 +35,6 @@ jobs:
           HOST_1: ${{ secrets.HOST_1 }}
         run: python -c "import os; print('EMAIL_1 exists:', bool(os.getenv('EMAIL_1'))); print('PASSWORD_1 exists:', bool(os.getenv('PASSWORD_1'))); print('HOST_1 exists:', bool(os.getenv('HOST_1')))"
 
-      # ✅ 运行你的邮件脚本
       - name: 运行脚本
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
@@ -56,14 +56,13 @@ jobs:
           EMAIL_5: ${{ secrets.EMAIL_5 }}
           PASSWORD_5: ${{ secrets.PASSWORD_5 }}
           HOST_5: ${{ secrets.HOST_5 }}
-
         run: python mail_filter.py
 
-      # ✅ 提交更新（已修复权限问题）
       - name: 提交更新
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "update report" || echo "no changes"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+          git diff --cached --quiet && echo "no changes" && exit 0
+          git commit -m "update report"
+          git push
