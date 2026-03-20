@@ -24,22 +24,17 @@ jobs:
           python-version: '3.10'
 
       - name: 安装依赖
-        run: |
-          pip install python-dotenv openpyxl
+        run: pip install python-dotenv openpyxl
 
+      # ✅ 检查环境变量（已修复，不会再报错）
       - name: 检查环境变量
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
           PASSWORD_1: ${{ secrets.PASSWORD_1 }}
           HOST_1: ${{ secrets.HOST_1 }}
-        run: |
-          python - <<EOF
-import os
-print("EMAIL_1 exists:", bool(os.getenv("EMAIL_1")))
-print("PASSWORD_1 exists:", bool(os.getenv("PASSWORD_1")))
-print("HOST_1 exists:", bool(os.getenv("HOST_1")))
-EOF
+        run: python -c "import os; print('EMAIL_1 exists:', bool(os.getenv('EMAIL_1'))); print('PASSWORD_1 exists:', bool(os.getenv('PASSWORD_1'))); print('HOST_1 exists:', bool(os.getenv('HOST_1')))"
 
+      # ✅ 运行你的邮件脚本
       - name: 运行脚本
         env:
           EMAIL_1: ${{ secrets.EMAIL_1 }}
@@ -61,8 +56,14 @@ EOF
           EMAIL_5: ${{ secrets.EMAIL_5 }}
           PASSWORD_5: ${{ secrets.PASSWORD_5 }}
           HOST_5: ${{ secrets.HOST_5 }}
-        run: |
-          python mail_filter.py
 
-      - name: 完成
-        run: echo "任务执行完成 ✅"
+        run: python mail_filter.py
+
+      # ✅ 提交生成的网页（让你的网站更新）
+      - name: 提交更新
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "update report" || echo "no changes"
+          git push
