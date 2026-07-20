@@ -1,4 +1,49 @@
 ﻿category,time_bucket,account,account_user,date,from,subject,hit_keywords,body_preview,detected_at,fetch_mode,uid
+KYC审核类,today,account_4,weihaizhongxin2024@126.com,"Mon, 20 Jul 2026 08:31:05 +0000","""Amazon Seller Central Notifications (Do Not Reply)"" <donotreply@amazon.com>",Know Your Customer (KYC) verification process support,,"96
+ Pending Know Your Customer (KYC) account verification
+ Hello,
+ We are conducting a review of your Amazon Payments Account. We need additional information or documents to continue with your account verification. In accordance with regulations, you must complete an account verification process. Please go to the Identity Information page to provide the required information or documents:
+ Submit documentation
+ In some cases, we will send a notification that outlines the details of the request related to your Amazon Payments account. Please check the most recent performance notifications starting with the subject [Action Required]: Performance Notifications .
+ What happens next?
+ Once you have provided the requested information or documents, we will continue with your account verification. Please continue to proactively check the performance notifications or emails to understand if further information or documents are needed from you.
+ Once the verification is complete, you will receive a performance notification and email advising you of the result.
+ We’re here to help.
+ If you have any questions, you can contact us at any time via Amazon Selling Partner Support .
+ For more informa",2026-07-20 15:13:08,RETR,xtbBpAxcQmpd3Mw22gAA39
+KYC审核类,today,account_4,weihaizhongxin2024@126.com,"Mon, 20 Jul 2026 08:30:30 +0000","""seller-verification-review-cn@amazon.co.uk"" <seller-verification-review-cn@amazon.co.uk>",[需要采取的操作] 需要您的“我要开店”付款账户的相关信息,,"96
+[需要采取的操作] 需要您的“我要开店”付款账户的相关信息
+ [需要采取的操作] 需要您的“我要开店”付款账户的相关信息
+ 您好！
+此次联系您是因为我们需要一些其他文件才能继续验证您的账户。
+提供经过修改或篡改的文件可能会导致账户被永久关闭。
+我们仅允许修改银行对账单等文件，以遮挡付款余额等详细信息。
+如果我未采取措施或者不提供所需的信息/文件，会怎么样？
+自我们首次与您联系要求您采取措施或提供完成验证所需的所有文件和信息之日起，您总共有 60 天的时间来提供这些文件和信息。我们审核和验证您采取措施后的结果的时间或验证信息的时间不会计入给您的 60 天期限。
+如果您未能在 60 天内采取措施或提供要求的信息，您的商品将被暂时停售，并且您的提现功能将被暂时停用，直到完成验证为止。
+如果自我们首次联系您之日起已超过 60 天，则您的付款可能已被冻结，您的商品可能已被停售。在您提供要求的信息或文件且您的账户得到验证之前，您的付款将继续处于冻结状态，您的商品将继续处于停售状态。
+为什么会发生这种情况？
+您之前提供的银行账户所有权证明文件不足以完成验证流程，因为它它并未体现您账户上注册的**完整**公司名称。
+我需要提供哪种类型的文件？
+-- 目前在卖家平台中输入为存款方式的其中2个银行账户的银行对账单或银行资信证明的扫描件：以 *29 和 *91 结尾的账号。
+如何处理这种情况？
+确保文件符合以下标准：
+-- 文件必须是在最近 180 天内开具的。
+-- 文件必须显示银行账号、银行徽标和账户持有者姓名。
+-- 如果您以公司形式开展业务，则您的银行账户必须为公司账户。
+-- 请务必确保文件清晰易读。
+-- 文件不能是屏幕截图。
+-- 文件必须使用我们支持的语言之一。我们支持以下语言：英语、中文、丹麦语、荷兰语、德语、意大利语、西班牙语、瑞典语、法语、土耳其语、波兰语、葡萄牙语、阿拉伯语、印地语、泰米尔语、越南语、泰语、韩语和日语。如果原始文件使用的不是我们支持的语言，请同时提供原始文件和翻译文件。
+我如何提供这些信息？
+请完成以下步骤，在卖家平台的“银行账户信息”部分更新您的银行账户信息：
+https://sellercentral-europe.amazon.com/sw/AccountInfo/DepositMethodView/step/DepositMethodView
+1.单击“更换存款方式”。
+2.在新出现的页面上，单击“添加新的存款方式”，并提供您尝试注册的银行账户的详细信息。
+3.单击“设置存款方式”。
+4.单击“验证账户”。
+5.转至卖家平台的“身份信息”部分：
+https://sellercentral-europe.amazon.com/sw/SSR/BusinessKYCInfo/spaDashboard
+6.按照相关提示上传要求提供的文",2026-07-20 15:13:07,RETR,xtbBpApTOWpd3Ko1kgAA3i
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 14:04:25 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -14,7 +59,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-263885025090231",2026-07-20 06:55:52,RETR,xtbBpA1DKWpc2W220AAA3n
+ SPC-USAmazon-263885025090231",2026-07-20 15:13:06,RETR,xtbBpA1DKWpc2W220AAA3n
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 04:59:54 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -25,7 +70,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:50,RETR,xtbBpA07IWpcWc1xrAAA3M
+-",2026-07-20 15:13:05,RETR,xtbBpA07IWpcWc1xrAAA3M
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Sat, 18 Jul 2026 14:58:02 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -41,7 +86,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-650913116264595",2026-07-20 06:55:50,RETR,xtbBsx61m2pblH7kAgAA3+
+ SPC-USAmazon-650913116264595",2026-07-20 15:13:04,RETR,xtbBsx61m2pblH7kAgAA3+
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Fri, 17 Jul 2026 05:03:59 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -52,7 +97,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:45,RETR,xtbBswAP9GpZt8CmvgAA3U
+-",2026-07-20 15:12:59,RETR,xtbBswAP9GpZt8CmvgAA3U
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Thu, 16 Jul 2026 05:02:32 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -63,7 +108,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:43,RETR,xtbBpQxFK2pYZex3zQAA3G
+-",2026-07-20 15:12:57,RETR,xtbBpQxFK2pYZex3zQAA3G
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Wed, 15 Jul 2026 04:56:43 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -74,7 +119,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:39,RETR,xtbBsww4HmpXEwyr-AAA3s
+-",2026-07-20 15:12:53,RETR,xtbBsww4HmpXEwyr-AAA3s
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Tue, 14 Jul 2026 15:08:13 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -90,7 +135,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-2163841117990994",2026-07-20 06:55:37,RETR,xtbBsgF8YmpWUOH7JgAA39
+ SPC-USAmazon-2163841117990994",2026-07-20 15:12:52,RETR,xtbBsgF8YmpWUOH7JgAA39
 店铺绩效类,last7,account_4,weihaizhongxin2024@126.com,"Tue, 14 Jul 2026 04:45:43 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -101,7 +146,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:30,RETR,xtbBsxvdw2pVvvviTAAA3i
+-",2026-07-20 15:12:49,RETR,xtbBsxvdw2pVvvviTAAA3i
 KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 16:00:40 +0000","""Amazon Seller Central Notifications (Do Not Reply)"" <donotreply@amazon.com>",Know Your Customer (KYC) verification process support,,"96
  Pending Know Your Customer (KYC) account verification
  Hello,
@@ -113,7 +158,7 @@ KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 16:00:
  Once the verification is complete, you will receive a performance notification and email advising you of the result.
  We’re here to help.
  If you have any questions, you can contact us at any time via Amazon Selling Partner Support .
- For more informa",2026-07-20 06:55:53,RETR,xtbBpQsZ-mpc9KtI+wAA3T
+ For more informa",2026-07-20 15:13:06,RETR,xtbBpQsZ-mpc9KtI+wAA3T
 KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 15:59:18 +0000","""seller-verification-review-cn@amazon.co.uk"" <seller-verification-review-cn@amazon.co.uk>",[需要采取的操作] 需要您的“我要开店”付款账户的相关信息,,"96
 [需要采取的操作] 需要您的“我要开店”付款账户的相关信息
  [需要采取的操作] 需要您的“我要开店”付款账户的相关信息
@@ -146,7 +191,7 @@ https://sellercentral-europe.amazon.com/sw/AccountInfo/DepositMethodView/step/De
 4.单击“验证账户”。
 5.转至卖家平台的“身份信息”部分：
 https://sellercentral-europe.amazon.com/sw/SSR/BusinessKYCInfo/spaDashboard
-6.按照相关提示上传要求提供的文",2026-07-20 06:55:52,RETR,xtbBpRoF6mpc9FpGnQAA3T
+6.按照相关提示上传要求提供的文",2026-07-20 15:13:06,RETR,xtbBpRoF6mpc9FpGnQAA3T
 KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 07:44:38 +0000","""Amazon Seller Central Notifications (Do Not Reply)"" <donotreply@amazon.com>",Know Your Customer (KYC) verification process support,,"96
  Pending Know Your Customer (KYC) account verification
  Hello,
@@ -158,7 +203,7 @@ KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 07:44:
  Once the verification is complete, you will receive a performance notification and email advising you of the result.
  We’re here to help.
  If you have any questions, you can contact us at any time via Amazon Selling Partner Support .
- For more informa",2026-07-20 06:55:51,RETR,xtbBswrr0WpcgGp-sQAA3R
+ For more informa",2026-07-20 15:13:05,RETR,xtbBswrr0WpcgGp-sQAA3R
 KYC审核类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 07:43:19 +0000","""seller-verification-review-cn@amazon.co.uk"" <seller-verification-review-cn@amazon.co.uk>","[Action Required] Information needed for your Selling on Amazon
  payment account",,"96
 [Action Required] Information needed for your Selling on Amazon payment account
@@ -169,7 +214,7 @@ Providing altered or manipulated documents may result in permanent account closu
 What happens if I do not take action/do not provide the required information/documents?
 You have a total of 60 days from the day when we first contacted you to take action or provide all of the requested documentation and information to complete the verification. The time that we take to review and validate the outcomes of your action or validate the information will not be counted against the 60-day threshold that you are given.
 If you do not take action or provide requested information before these 60 days, your listings and the ability to disburse funds will be temporarily deactivated until verification has been completed.
-If it has been more than 60 days since we first contacted you, your disbursements and listings might have already been deactivated and will remain deactivated until the requested information or documenta",2026-07-20 06:55:51,RETR,xtbBsxvXvWpcgBt+rgAA3-
+If it has been more than 60 days since we first contacted you, your disbursements and listings might have already been deactivated and will remain deactivated until the requested information or documenta",2026-07-20 15:13:05,RETR,xtbBsxvXvWpcgBt+rgAA3-
 付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Fri, 17 Jul 2026 15:31:53 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -184,7 +229,7 @@ To find out more about Payment Reports in Seller Central, please visit our offic
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:55:48,RETR,xtbBpQz+5GpaSuyzswAA3l
+Help us improve your payment experience on Ama",2026-07-20 15:13:01,RETR,xtbBpQz+5GpaSuyzswAA3l
 付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Fri, 17 Jul 2026 15:31:22 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -199,7 +244,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:55:47,RETR,xtbBsg723GpaSs7HugAA3f
+Help us improve your payment experience on Ama",2026-07-20 15:13:00,RETR,xtbBsg723GpaSs7HugAA3f
 付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Fri, 17 Jul 2026 15:30:38 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -211,7 +256,7 @@ El 07/17/26 15:30 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:46,RETR,xtbBswLr0WpaSqK6nwAA32
+Te deseamos un éx",2026-07-20 15:13:00,RETR,xtbBswLr0WpaSqK6nwAA32
 付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Wed, 15 Jul 2026 14:47:49 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -223,7 +268,7 @@ El 07/15/26 14:47 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:42,RETR,xtbBshj942pXnZjFoQAA3o
+Te deseamos un éx",2026-07-20 15:12:55,RETR,xtbBshj942pXnZjFoQAA3o
 付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Tue, 14 Jul 2026 14:58:09 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -238,22 +283,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon Store,
 Amazon Services
-Help us improve your payment experience on Amaz",2026-07-20 06:55:37,RETR,xtbBpQXkympWToXh2QAA3B
-付款/资金类,last7,account_4,weihaizhongxin2024@126.com,"Mon, 13 Jul 2026 14:21:36 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
-This title will display on mobile devices
- Congratulations! Your payment is on the way and will arrive soon.
- Disbursement Attempted
-Congratulations Weihai EU! Your payment is on the way and will arrive within three to five days.
-On 07/13/26 14:21 BST, we initiated a transfer to your payment method (bank account ending in 191) in the amount of £
- 188.73.
- If the amount is less than expected, here are a few questions to consider:
- Do you have an unavailable balance? Amazon might be reserving money to cover potential returns, claims or chargebacks from buyers. If this is the case, the closing balance in your Payment Report will display the unavailable balance that is reserved.
- Did your sales cover all fees and returns for this statement period? The payment amount reflects sales activities, selling fees and fees for promotions or services. We recommend reviewing your Payment Report under the Reports tab in Seller Central to understand your closing balance.
-To find out more about Payment Reports in Seller Central, please visit our official course.
-We wish you continued success!
-Thank you for selling in the Amazon store,
-Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:55:28,RETR,xtbBpBMJ7mpU9HNigQAA3K
+Help us improve your payment experience on Amaz",2026-07-20 15:12:51,RETR,xtbBpQXkympWToXh2QAA3B
 产品链接/合规类,last7,account_4,weihaizhongxin2024@126.com,"Wed, 15 Jul 2026 06:06:37 +0000",Amazon Services <donotreply@amazon.com>,Submit product safety documentation to avoid listing deactivation,,"96
  Hello Weihai CA,
  Some of your listings are at risk of deactivation due to missing mandatory compliance requirements for your products. Review the details and next steps below. The affected listings are shown at the end of this email.
@@ -267,7 +297,7 @@ Help us improve your payment experience on Ama",2026-07-20 06:55:28,RETR,xtbBpBM
 -
  If you believe your products are exempt from these requirements, submit documentation demonstrating why they are not subject to these compliance requirements.
  For step-by-step instructions, see our Submit compliance documents or appeal a documentation request help page.
- To avoid further impact to your account, close or delete any non-compliant listings that you do ",2026-07-20 06:55:39,RETR,xtbBpBFVO2pXI3EdygAA3j
+ To avoid further impact to your account, close or delete any non-compliant listings that you do ",2026-07-20 15:12:53,RETR,xtbBpBFVO2pXI3EdygAA3j
 法务/侵权类,last7,account_4,weihaizhongxin2024@126.com,"Sun, 19 Jul 2026 13:53:00 +0000",Amazon Services <donotreply@amazon.com>,Votre paiement est en cours,,"96
 This title will display on mobile devices
  Félicitations ! Votre paiement est en cours et arrivera sous peu.
@@ -277,7 +307,7 @@ Le 07/19/26 13:52 CEST, nous avons effectué un virement d’un montant de €
  136.38 sur le compte lié à votre méthode de paiement (compte bancaire se terminant par 229).
  Si le montant est inférieur au montant auquel vous vous attendiez, voici quelques questions à vous poser :
  Disposez-vous d’un solde de fonds non disponibles ? Amazon peut réserver des fonds afin de couvrir des retours, des réclamations ou des rétrofacturations potentiels des acheteurs. Si tel est le cas, le solde de fin de période de votre rapport sur les paiements affichera le solde des fonds non disponibles réservé.
- Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 06:55:51,RETR,xtbBpQCXfWpc1sCn5gAA3u
+ Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 15:13:06,RETR,xtbBpQCXfWpc1sCn5gAA3u
 法务/侵权类,last7,account_4,weihaizhongxin2024@126.com,"Thu, 16 Jul 2026 11:19:50 +0000",Global Warehousing and Distribution <donotreply@amazon.com>,Global Warehousing and Distribution’s new China shipping options are live,,"96
  Choose Shanghai or Shenzhen with Free on Board support
  Global Warehousing and Distribution (GWD)
@@ -287,7 +317,7 @@ Le 07/19/26 13:52 CEST, nous avons effectué un virement d’un montant de €
 - Keep control of your export documentation: With the FOB incoterm, you can obtain separate invoices for export declaration and origin port handling charges to support your export tax rebate process.
 - Reduce US storage costs: Store bulk inventory with GWD in Shanghai or Shenzhen and move it into US FBA based on demand, so you're not paying US storage fees on inventory that isn't ready to sell.
 - Start small, scale when ready: Send as little as one shipment to GWD, with no long-term commitment and no peak storage fee increases, so you can confirm GWD fits your supply chain before increasing volume.
- Learn mor",2026-07-20 06:55:44,RETR,xtbBsxx3XWpYvlzYeQAA30
+ Learn mor",2026-07-20 15:12:58,RETR,xtbBsxx3XWpYvlzYeQAA30
 法务/侵权类,last7,account_4,weihaizhongxin2024@126.com,"Wed, 15 Jul 2026 12:22:37 +0000",Amazon Europe <noreply@sell.amazon.com>,Introducing the Improved Similar Items Dashboard – Smarter Pricing Starts Now,,"[Amazon logo]
 We're excited to announce the launch of the improved Similar Items Dashboard. It helps you understand how comparable products are priced on Amazon. Instead of spending hours on manual research, it provides quick access to Amazon data – all in one place.
 [Explore the Dashboard Now](https://go.amazonsellerservices.com/e/229492/tus-all-ref--xx-invmgr-dnav-xx/7z4njtm/6769022163/h/8vIvt897JI4FIoN1zpbOfGsnK8r65MNsf-5hLns08l0)
@@ -300,7 +330,7 @@ Ready to get started? It's simple:
 - Click on 'View Reference Prices' in the Pricing column
 - Select 'Set Up Similar Products' to access the dashboard
 The Similar Items Dashboard can help you research prices for products customers may see as comparable to yours and make more informed pricing decision.
-[Explore the Dashboard Now](https://go.amazonsellerservices.com/e/229492/tus-al",2026-07-20 06:55:42,RETR,xtbBpRBzWWpXe5D09wAA3K
+[Explore the Dashboard Now](https://go.amazonsellerservices.com/e/229492/tus-al",2026-07-20 15:12:55,RETR,xtbBpRBzWWpXe5D09wAA3K
 法务/侵权类,last7,account_4,weihaizhongxin2024@126.com,"Wed, 15 Jul 2026 10:17:38 +0000",Amazon Services <donotreply@amazon.com>,"Get increased New Selection Program (2026) benefits starting July
  30",,"96
  Effective July 30, 2026, the New Selection Program (2026) launches with increased benefits to help you launch new branded products with reduced costs and complexity while boosting early sales.
@@ -310,7 +340,7 @@ The Similar Items Dashboard can help you research prices for products customers 
 New benefits for an eligible new-to-FBA product include (applicable from first inventory received date):
 - Instant fee credits equivalent to capping referral fees to 10% (or your existing rate, whichever is lower) on your first 100 units and 5% (or your existing rate, whichever is lower) on the next 100 units. Credits apply to major fees, like referral and fulfillment fees.
 - $50 in coupon variable fee credits and $75 in Vine enrollment fee credits (applied to middle tier), usable within the first 60 days.
-- Free storage, free c",2026-07-20 06:55:41,RETR,xtbBpAYZ-mpXXkYvUQAA3e
+- Free storage, free c",2026-07-20 15:12:54,RETR,xtbBpAYZ-mpXXkYvUQAA3e
 货件/库存类,last7,account_4,weihaizhongxin2024@126.com,"Sat, 18 Jul 2026 04:29:33 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-30,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -328,7 +358,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orde",2026-07-20 06:55:49,RETR,xtbBsxG9o2pbATEYZQAA3A
+ To avoid future manual inventory removal orde",2026-07-20 15:13:03,RETR,xtbBsxG9o2pbATEYZQAA3A
 货件/库存类,last7,account_4,weihaizhongxin2024@126.com,"Sat, 18 Jul 2026 04:12:27 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -348,7 +378,7 @@ This action is required because these unfulfillable items have remained in our f
  To monitor your unfulfillable inventory, see the Manage FBA Inventory for total unsellable quantities or the Recommended Removal report for unsellable and aged inventory details.
  The Fulfilment by Amazon Team
  Report an issue with this email
- If you have an",2026-07-20 06:55:49,RETR,xtbBpA67oWpa-S7H4wAA33
+ If you have an",2026-07-20 15:13:02,RETR,xtbBpA67oWpa-S7H4wAA33
 货件/库存类,last7,account_4,weihaizhongxin2024@126.com,"Sat, 18 Jul 2026 03:41:39 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -366,21 +396,21 @@ This action is required because these unfulfillable items have remained in our f
  The Fulfilment by Amazon Team
  Report an issue with this email
  If you have any questions visit: Seller Central
- To change your email preferences visit: Notification Preferen",2026-07-20 06:55:48,RETR,xtbBshfr0Wpa9fecIgAA3T
+ To change your email preferences visit: Notification Preferen",2026-07-20 15:13:01,RETR,xtbBshfr0Wpa9fecIgAA3T
 其他风险类,last7,account_4,weihaizhongxin2024@126.com,"Thu, 16 Jul 2026 15:32:18 +0000",Sell with Amazon <no-reply@sell.amazon.com>,Accelerate 2026: Sessions designed for where you are and where you’re going,,"[Amazon logo](https://go.amazonsellerservices.com/e/229492/2026-07-14/7z4n1pf/6770773185/h/WdBYUGZo6UnxZlR8bvark7SKCv06gleKjoxG039m7cg)
 [Partner Connect at Accelerate 2026](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4n1pj/6770773185/h/WdBYUGZo6UnxZlR8bvark7SKCv06gleKjoxG039m7cg)
 Sessions matched to your experience level
 The Amazon Accelerate 2026 [session catalog](https://go.amazonsellerservices.com/e/229492/e-5a3b486e4e26-session-catalog/7z4n1pm/6770773185/h/WdBYUGZo6UnxZlR8bvark7SKCv06gleKjoxG039m7cg) is live. Every session is clearly marked by experience level (beginner, intermediate, and advanced) so you can find the right match for where you are. Formats include lightning talks, workshops, roundtables, presentations, panels, fireside chats, and more.
 Join us in person at Amazon Accelerate 2026 from September 22 to 24 in Seattle. Save $100 with early-bird pricing until August 8!
 [Register now](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4n1pj/6770773185/h/WdBYUGZo6UnxZlR8bvark7SKCv06gleKjoxG039m7cg)
-""Attending Amazon Accelerate for the first time has been an amazing experience! I feel inspired and more confide",2026-07-20 06:55:44,RETR,xtbBsgVQNmpY+YWrugAA3O
+""Attending Amazon Accelerate for the first time has been an amazing experience! I feel inspired and more confide",2026-07-20 15:12:58,RETR,xtbBsgVQNmpY+YWrugAA3O
 其他风险类,last7,account_4,weihaizhongxin2024@126.com,"Tue, 14 Jul 2026 15:11:01 +0000",Amazon Accelerate <no-reply@sell.amazon.com>,Your Accelerate 2026 session catalog is now live,,"[Amazon logo](https://go.amazonsellerservices.com/e/229492/2026-07-14/7z4n1s7/6767228964/h/eXAL3anI3dWEgFXK_p_u6QFSTde6SYcFg0MO4Yodnjk)
 [Partner Connect at Accelerate 2026](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4n1sb/6767228964/h/eXAL3anI3dWEgFXK_p_u6QFSTde6SYcFg0MO4Yodnjk)
 Approachable formats, actionable takeaways, and proven strategies
 The Amazon Accelerate 2026 [session catalog](https://go.amazonsellerservices.com/e/229492/e-5a3b486e4e26-session-catalog/7z4n1sf/6767228964/h/eXAL3anI3dWEgFXK_p_u6QFSTde6SYcFg0MO4Yodnjk) is live. This year's lineup spans 80+ sessions across 11 breakout topics, built for every experience level. Whether you're still finding your footing or ready to take the next step, you'll find content that meets you where you are.
 New for 2026: Expect more interactive sessions, expanded Q&A opportunities, and sessions featuring fellow sellers sharing their real-world strategies.
 Join us in person at Amazon Accelerate 2026 from September 22 to 24 in Seattle. Save $100 with early-bird pricing until August 8!
-[Register now](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4n1sb/6767228964/h/eXAL3an",2026-07-20 06:55:37,RETR,xtbBpAimjGpWUYjzDAAA3c
+[Register now](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4n1sb/6767228964/h/eXAL3an",2026-07-20 15:12:52,RETR,xtbBpAimjGpWUYjzDAAA3c
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 12 Jul 2026 14:23:23 +0000",Amazon Services <seller-notification@amazon.com>,Balance paid on your Amazon seller account,,"Greetings from Amazon Services.
  We have charged your credit card for $88.37 in an attempt to settle your Amazon seller account balance.
  Note that the amount charged to your credit card may be less than the total amount you owe due to a credit limit imposed by your bank. If that is the case, we will continue to charge your credit card as often as every 24 hours until the remaining balance in your Amazon seller account is paid in full.
@@ -391,7 +421,7 @@ Join us in person at Amazon Accelerate 2026 from September 22 to 24 in Seattle. 
  Help us improve your experience on selling on Amazon through this brief survey:
  https://amazonexteu.qualtrics.com/jfe/form/SV_eUKdboEQhg1YpuK?cID=10038096056-202607121349
  Was this email helpful?
- SPC-USAmazon-1671259904395565",2026-07-20 06:55:25,RETR,xtbBpQBwVmpTo2CMlwAA3i
+ SPC-USAmazon-1671259904395565",2026-07-20 15:12:42,RETR,xtbBpQBwVmpTo2CMlwAA3i
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 09:58:04 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -402,7 +432,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.com/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
-- T",2026-07-20 06:55:23,RETR,xtbBpBAgBmpSE7BFRwAA3L
+- T",2026-07-20 15:12:38,RETR,xtbBpBAgBmpSE7BFRwAA3L
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 05:37:52 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -413,7 +443,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:22,RETR,xtbBpBPQtmpR1rMS7QAA3w
+-",2026-07-20 15:12:34,RETR,xtbBpBPQtmpR1rMS7QAA3w
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 05:20:26 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -424,7 +454,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:13,RETR,xtbBpAEX-GpQgSHGYQAA3z
+-",2026-07-20 15:12:24,RETR,xtbBpAEX-GpQgSHGYQAA3z
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 03:39:42 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -435,7 +465,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:55:08,RETR,xtbBsxB4XmpPGBBs5wAA3j
+-",2026-07-20 15:12:19,RETR,xtbBsxB4XmpPGBBs5wAA3j
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 5 Jul 2026 05:28:59 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (0uWEj59btv),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 You can track the status of this request by visiting your Seller Account at:
@@ -450,7 +480,7 @@ Fulfilment by Amazon – let Amazon pick, pack and ship your orders domestically
 and EU wide.
 ------------------------------------------------------------------------------
 Was this e-mail helpful? https://sellercentral.amazon.co.uk/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-EUAmazon-1583298414144679",2026-07-20 06:54:27,RETR,xtbBsh8P9GpJ65+UmgAA3P
+SPC-EUAmazon-1583298414144679",2026-07-20 15:11:31,RETR,xtbBsh8P9GpJ65+UmgAA3P
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 5 Jul 2026 04:32:11 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -461,7 +491,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:54:27,RETR,xtbBsg+3nWpJ3k9h2wAA3f
+-",2026-07-20 15:11:30,RETR,xtbBsg+3nWpJ3k9h2wAA3f
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Fri, 3 Jul 2026 09:21:14 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -472,7 +502,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.com/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
-- T",2026-07-20 06:54:21,RETR,xtbBsw5PNWpHfw5UVgAA3Z
+- T",2026-07-20 15:11:26,RETR,xtbBsw5PNWpHfw5UVgAA3Z
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 09:24:36 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -483,7 +513,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.com/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
-- T",2026-07-20 06:54:16,RETR,xtbBshnNs2pGLlmuEwAA3z
+- T",2026-07-20 15:11:21,RETR,xtbBshnNs2pGLlmuEwAA3z
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 04:17:03 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (go0BbIMUoR),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 You can track the status of this request by visiting your Seller Account at:
@@ -498,7 +528,7 @@ Fulfilment by Amazon – let Amazon pick, pack and ship your orders domestically
 and EU wide.
 ------------------------------------------------------------------------------
 Was this e-mail helpful? https://sellercentral.amazon.co.uk/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-EUAmazon-193515716027065",2026-07-20 06:54:15,RETR,xtbBsgK1m2pF5kL-ZwAA3N
+SPC-EUAmazon-193515716027065",2026-07-20 15:11:19,RETR,xtbBsgK1m2pF5kL-ZwAA3N
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 16:27:45 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (hbXn1jQJTV),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -518,7 +548,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-1565706782398233",2026-07-20 06:54:14,RETR,xtbBpAX84mpFQAWDkwAA3F
+SPC-USAmazon-1565706782398233",2026-07-20 15:11:18,RETR,xtbBpAX84mpFQAWDkwAA3F
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 05:07:37 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -529,7 +559,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:54:11,RETR,xtbBpR364GpEoJ1qxAAA3f
+-",2026-07-20 15:11:15,RETR,xtbBpR364GpEoJ1qxAAA3f
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Tue, 30 Jun 2026 08:53:34 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (j2cKowrwuw),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 You can track the status of this request by visiting your Seller Account at:
@@ -544,7 +574,7 @@ Fulfilment by Amazon – let Amazon pick, pack and ship your orders domestically
 and EU wide.
 ------------------------------------------------------------------------------
 Was this e-mail helpful? https://sellercentral.amazon.co.uk/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-EUAmazon-510175063560598",2026-07-20 06:54:10,RETR,xtbBsxCQdmpDhBAa-wAA3d
+SPC-EUAmazon-510175063560598",2026-07-20 15:11:12,RETR,xtbBsxCQdmpDhBAa-wAA3d
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Tue, 30 Jun 2026 04:56:23 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -555,7 +585,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:54:09,RETR,xtbBpRucgmpDTHsTOAAA3V
+-",2026-07-20 15:11:11,RETR,xtbBpRucgmpDTHsTOAAA3V
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Mon, 29 Jun 2026 23:44:37 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (H7OQM8penQ),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -575,7 +605,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-1161086507307943",2026-07-20 06:54:07,RETR,xtbBpQlGLGpDA2k23QAA3u
+SPC-USAmazon-1161086507307943",2026-07-20 15:11:08,RETR,xtbBpQlGLGpDA2k23QAA3u
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Mon, 29 Jun 2026 04:56:45 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -586,7 +616,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:54:04,RETR,xtbBsg-s0mpB+w81YQAA3I
+-",2026-07-20 15:11:04,RETR,xtbBsg-s0mpB+w81YQAA3I
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 28 Jun 2026 14:57:16 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -602,7 +632,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-1724036457613526",2026-07-20 06:54:03,RETR,xtbBpRCMcmpBNlBFjwAA3M
+ SPC-USAmazon-1724036457613526",2026-07-20 15:10:58,RETR,xtbBpRCMcmpBNlBFjwAA3M
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 28 Jun 2026 14:55:52 +0000",Amazon Services <seller-notification@amazon.com>,Balance paid on your Amazon seller account,,"Greetings from Amazon Services.
  We have charged your credit card for $81.22 in an attempt to settle your Amazon seller account balance.
  Note that the amount charged to your credit card may be less than the total amount you owe due to a credit limit imposed by your bank. If that is the case, we will continue to charge your credit card as often as every 24 hours until the remaining balance in your Amazon seller account is paid in full.
@@ -613,7 +643,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  Help us improve your experience on selling on Amazon through this brief survey:
  https://amazonexteu.qualtrics.com/jfe/form/SV_eUKdboEQhg1YpuK?cID=10038096056-202606281349
  Was this email helpful?
- SPC-USAmazon-510175622387886",2026-07-20 06:54:02,RETR,xtbBsxx3XWpBNfxhxQAA3D
+ SPC-USAmazon-510175622387886",2026-07-20 15:10:57,RETR,xtbBsxx3XWpBNfxhxQAA3D
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 28 Jun 2026 04:47:15 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -624,7 +654,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:54:01,RETR,xtbBpRepj2pAp1fonwAA35
+-",2026-07-20 15:10:56,RETR,xtbBpRepj2pAp1fonwAA35
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 04:59:26 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -635,7 +665,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:53:55,RETR,xtbBpRH33Wo+BzFXCgAA3h
+-",2026-07-20 15:10:49,RETR,xtbBpRH33Wo+BzFXCgAA3h
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 03:07:14 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (HI24ImSBWG),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -655,7 +685,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-1301823993910502",2026-07-20 06:53:54,RETR,xtbBswVeRGo97OUM+AAA3G
+SPC-USAmazon-1301823993910502",2026-07-20 15:10:48,RETR,xtbBswVeRGo97OUM+AAA3G
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 15:41:57 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -671,7 +701,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-1301823993671780",2026-07-20 06:53:49,RETR,xtbBsggP9Go9TEh-IgAA3P
+ SPC-USAmazon-1301823993671780",2026-07-20 15:10:42,RETR,xtbBsggP9Go9TEh-IgAA3P
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 09:07:47 +0000",Amazon Multchannel Fulfillment Team <multichannelfulfillment@supplychain.amazon.com>,Please share your feedback on MCF,,"Please share your feedback on MCF
 Dear Weihai US,
 As a valued Multichannel Fulfilment (MCF) managed customer, we are interested in learning about your program feedback including new features that may benefit your business. This may help us understand how we can better meet your business needs and continue to improve the customer experience. Please complete this survey no later than July 2.
@@ -680,7 +710,7 @@ This submission form is unique to your Seller account and can only be submitted 
 DISCLAIMER: Please do not include any Personally Identifiable Information within this survey such as physical addresses, phone numbers, merchant tokens, email addresses, account data, etc.
 Thank you,
 Your Multichannel Fulfilment Team
-This survey is hosted by an external party Qualtrics.com, so the link above does not lead to our website. Your responses are subject to Amazon's Privacy Notice. If you have any concerns about the authenticity of this e-mail or to find out more about Amazon's survey program, please visit the Amazon C",2026-07-20 06:53:46,RETR,xtbBsgnv1Wo88CkW9QAA3t
+This survey is hosted by an external party Qualtrics.com, so the link above does not lead to our website. Your responses are subject to Amazon's Privacy Notice. If you have any concerns about the authenticity of this e-mail or to find out more about Amazon's survey program, please visit the Amazon C",2026-07-20 15:10:39,RETR,xtbBsgnv1Wo88CkW9QAA3t
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 04:53:58 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -691,7 +721,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:53:46,RETR,xtbBswnw1mo8tGnZ8wAA39
+-",2026-07-20 15:10:38,RETR,xtbBswnw1mo8tGnZ8wAA39
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 00:27:04 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (FyqS0yVk5B),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -711,7 +741,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-1987919249117870",2026-07-20 06:53:45,RETR,xtbBpBs9I2o8ddt14AAA3M
+SPC-USAmazon-1987919249117870",2026-07-20 15:10:37,RETR,xtbBpBs9I2o8ddt14AAA3M
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Wed, 24 Jun 2026 04:45:26 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -722,7 +752,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:53:43,RETR,xtbBpQq7oWo7YOq0JgAA38
+-",2026-07-20 15:10:35,RETR,xtbBpQq7oWo7YOq0JgAA38
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 15:11:41 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -738,7 +768,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-1671259898541181",2026-07-20 06:53:40,RETR,xtbBshHdw2o6ojFl1AAA3P
+ SPC-USAmazon-1671259898541181",2026-07-20 15:10:32,RETR,xtbBshHdw2o6ojFl1AAA3P
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 02:24:45 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (1M28ecQsao),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -758,7 +788,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-404622503407998",2026-07-20 06:53:34,RETR,xtbBpRHApmo57nGPkQAA3A
+SPC-USAmazon-404622503407998",2026-07-20 15:10:16,RETR,xtbBpRHApmo57nGPkQAA3A
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 06:20:20 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (9U/Ti42WHq),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 You can track the status of this request by visiting your Seller Account at:
@@ -773,7 +803,7 @@ Fulfilment by Amazon – let Amazon pick, pack and ship your orders domestically
 and EU wide.
 ------------------------------------------------------------------------------
 Was this e-mail helpful? https://sellercentral.amazon.co.uk/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-EUAmazon-1671259338897621",2026-07-20 06:53:30,RETR,xtbBsgfmzGo41CdKpQAA3R
+SPC-EUAmazon-1671259338897621",2026-07-20 15:10:11,RETR,xtbBsgfmzGo41CdKpQAA3R
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 04:45:03 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -784,7 +814,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:53:30,RETR,xtbBshJMMmo4vdKqQQAA3I
+-",2026-07-20 15:10:11,RETR,xtbBshJMMmo4vdKqQQAA3I
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sun, 21 Jun 2026 14:27:31 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -800,7 +830,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-492583430909528",2026-07-20 06:53:29,RETR,xtbBpRfawGo39NdwTwAA3p
+ SPC-USAmazon-492583430909528",2026-07-20 15:10:10,RETR,xtbBpRfawGo39NdwTwAA3p
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 15:35:08 +0000","""Amazon.com"" <fba-noreply@amazon.com>",Your FBA request is complete (hCxOB8pPpU),,"Greetings from Amazon.com
 We thought you'd like to know that we have completed your destroy request.
 Disposal Summary:
@@ -820,7 +850,7 @@ online orders.
 --------------------------------------------------------------------------
 Was this email helpful?
  https://sellercentral.amazon.com/gp/satisfaction/survey-form.html?ie=UTF8&HMDName=NotificationBusEmailHMD&customAttribute1Value=PRODUCT_REMOVAL_ORDER_SHIPPED_NOW
-SPC-USAmazon-439806876012022",2026-07-20 06:53:24,RETR,xtbBsw8gBmo2sy8HJAAA35
+SPC-USAmazon-439806876012022",2026-07-20 15:10:05,RETR,xtbBsw8gBmo2sy8HJAAA35
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 15:10:33 +0000",Fulfillment by Amazon Operations <fba-noreply@amazon.com>,Automated unfulfillable FBA inventory removal notification,,"96
  Hello Weihai US,
 The following automated unfulfillable FBA removal orders have been created based on your automated settings.
@@ -836,7 +866,7 @@ Please note: This email was sent from a notification-only address that cannot ac
  To change your email preferences visit: Notification Preferences
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-2163841110748510",2026-07-20 06:53:23,RETR,xtbBswyulGo2rWziwAAA36
+ SPC-USAmazon-2163841110748510",2026-07-20 15:10:05,RETR,xtbBswyulGo2rWziwAAA36
 店铺绩效类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 04:41:46 +0000","""Fulfillment by Amazon (Do not reply)"" <donotreply@amazon.com>",FBA reimbursement notification,,"96
 FBA reimbursement notification
  You have a reimbursement activity
@@ -847,7 +877,7 @@ Please note that it may take up to five business days for reimbursement transact
 You can find details on your reimbursement or reversal transaction in the Reimbursements report ( https://sellercentral.amazon.co.uk/reportcentral/REIMBURSEMENTS/0 ) in Seller Central:
 - In the Event Date drop-down menu, select a date range and click Generate report . You can use the date in the subject line of this email as a point of reference.
 - To identify inventory reimbursements and reversals, see the Quantity reimbursed [inventory] column.
--",2026-07-20 06:53:18,RETR,xtbBpA6xl2o2Gg6qFwAA35
+-",2026-07-20 15:10:03,RETR,xtbBpA6xl2o2Gg6qFwAA35
 KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Mon, 13 Jul 2026 06:09:58 +0000",亚马逊全球开店 <info@globalselling.amazon.cn>,【官方提示】请尽快通过您的欧洲站卖家资质KYC审核，以保证正常销售,,"账户注册
 															资质审查
 															补充材料
@@ -875,7 +905,7 @@ http://go.amazonsellerservices.com/e/229492/-SU-CN-GS-Seller-Audit-KYC-pdf/7y6ph
 												KYC（Know Your Customer） 是欧洲站开店卖家的资质审核。
 												不同卖家触发KYC审核的节点或有不同，账号注册过程中，或注册完成进入卖家平台后，更改卖家后台关键信息（比如受益人信息/地址信息等）或达到一定的销售额阈值前。 只有通过了资质审核才可以在欧洲站长期销售。
 												如何进行KYC审核？
-		",2026-07-20 06:55:27,RETR,xtbBsxkeBGpUgTkkyAAA3a
+		",2026-07-20 15:12:44,RETR,xtbBsxkeBGpUgTkkyAAA3a
 KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 08:27:01 +0000","""Amazon Seller Central Notifications (Do Not Reply)"" <donotreply@amazon.com>",Know Your Customer (KYC) verification process support,,"96
  Pending Know Your Customer (KYC) account verification
  Hello,
@@ -887,7 +917,7 @@ KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 08:27:
  Once the verification is complete, you will receive a performance notification and email advising you of the result.
  We’re here to help.
  If you have any questions, you can contact us at any time via Amazon Selling Partner Support .
- For more informa",2026-07-20 06:55:23,RETR,xtbBpBjEqmpR-ljXigAA3S
+ For more informa",2026-07-20 15:12:36,RETR,xtbBpBjEqmpR-ljXigAA3S
 KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 08:25:53 +0000","""seller-verification-review-cn@amazon.co.uk"" <seller-verification-review-cn@amazon.co.uk>","[Action Required] Information needed for your Selling on Amazon
  payment account",,"96
 [Action Required] Information needed for your Selling on Amazon payment account
@@ -898,7 +928,7 @@ Providing altered or manipulated documents may result in permanent account closu
 What happens if I do not take action?
 You have a total of 60 days from the day when we first contacted you to take action or provide all of the requested documentation and information to complete the verification. The time that we take to review and validate the outcomes of your action or validate the information will not be counted against the 60-day threshold that you are given.
 If you do not take action or provide requested information before these 60 days, your listings and the ability to disburse funds will be temporarily deactivated until verification has been completed.
-If it has been more than 60 days since we first contacted you, your disbursements and listings might have already been deactivated and will remain deactivated until the requested information or documentation has been provided and your account has been v",2026-07-20 06:55:23,RETR,xtbBpBazmWpR-hbWcgAA3v
+If it has been more than 60 days since we first contacted you, your disbursements and listings might have already been deactivated and will remain deactivated until the requested information or documentation has been provided and your account has been v",2026-07-20 15:12:35,RETR,xtbBpBazmWpR-hbWcgAA3v
 KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:11:12 +0000","""Amazon Seller Central Notifications (Do Not Reply)"" <donotreply@amazon.com>",Know Your Customer (KYC) verification process support,,"96
  Pending Know Your Customer (KYC) account verification
  Hello,
@@ -910,7 +940,22 @@ KYC审核类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:11:
  Once the verification is complete, you will receive a performance notification and email advising you of the result.
  We’re here to help.
  If you have any questions, you can contact us at any time via Amazon Selling Partner Support .
- For more informa",2026-07-20 06:55:15,RETR,xtbBpRO3nWpQ01NVugAA3J
+ For more informa",2026-07-20 15:12:27,RETR,xtbBpRO3nWpQ01NVugAA3J
+付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 13 Jul 2026 14:21:36 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
+This title will display on mobile devices
+ Congratulations! Your payment is on the way and will arrive soon.
+ Disbursement Attempted
+Congratulations Weihai EU! Your payment is on the way and will arrive within three to five days.
+On 07/13/26 14:21 BST, we initiated a transfer to your payment method (bank account ending in 191) in the amount of £
+ 188.73.
+ If the amount is less than expected, here are a few questions to consider:
+ Do you have an unavailable balance? Amazon might be reserving money to cover potential returns, claims or chargebacks from buyers. If this is the case, the closing balance in your Payment Report will display the unavailable balance that is reserved.
+ Did your sales cover all fees and returns for this statement period? The payment amount reflects sales activities, selling fees and fees for promotions or services. We recommend reviewing your Payment Report under the Reports tab in Seller Central to understand your closing balance.
+To find out more about Payment Reports in Seller Central, please visit our official course.
+We wish you continued success!
+Thank you for selling in the Amazon store,
+Amazon Services
+Help us improve your payment experience on Ama",2026-07-20 15:12:45,RETR,xtbBpBMJ7mpU9HNigQAA3K
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 13 Jul 2026 04:03:58 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -922,7 +967,7 @@ El 07/13/26 04:02 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:26,RETR,xtbBshK0mmpUY7JjkQAA3T
+Te deseamos un éx",2026-07-20 15:12:43,RETR,xtbBshK0mmpUY7JjkQAA3T
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 10:36:54 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -934,7 +979,7 @@ El 07/11/26 10:36 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:25,RETR,xtbBpQpoTmpSHMpvEwAA3b
+Te deseamos un éx",2026-07-20 15:12:40,RETR,xtbBpQpoTmpSHMpvEwAA3b
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 10:30:59 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -949,7 +994,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:55:24,RETR,xtbBpQYP9GpSG2ZpdwAA3D
+Help us improve your payment experience on Ama",2026-07-20 15:12:38,RETR,xtbBpQYP9GpSG2ZpdwAA3D
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 23:31:39 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -964,7 +1009,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Am",2026-07-20 06:55:21,RETR,xtbBpR5GLGpRgN4jDQAA3a
+Help us improve your payment experience on Am",2026-07-20 15:12:32,RETR,xtbBpR5GLGpRgN4jDQAA3a
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 12:07:00 +0000",亚马逊开店服务 <donotreply@amazon.com>,完成账户验证以恢复付款,,"96
  完成账户验证以恢复付款
  尊敬的 Weihai EU：
@@ -1002,7 +1047,7 @@ L-1855 Luxembourg,
 注册编号 B-101818，
 股本 165.833 欧元，
 营业执照编号： 134248，
-卢森",2026-07-20 06:55:20,RETR,xtbBsgcA5WpQ4GeqvAAA37
+卢森",2026-07-20 15:12:31,RETR,xtbBsgcA5WpQ4GeqvAAA37
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 12:05:39 +0000",Amazon Services <donotreply@amazon.com>,Completa la verificación de la cuenta para restaurar los pagos,,"96
  Completa la verificación de la cuenta para restaurar los pagos
  Hola, Weihai EU:
@@ -1014,7 +1059,7 @@ L-1855 Luxembourg,
  Hemos empleado una combinación de medios automatizados para tomar esta decisión.
  ¿Cómo puedo completar la verificación?
  Completa estos pasos para verificar la cuenta:
-- Para acceder a la página Estado de la cuenta , haz clic en ""Enviar verifica",2026-07-20 06:55:19,RETR,xtbBpRbr0WpQ4BahggAA3m
+- Para acceder a la página Estado de la cuenta , haz clic en ""Enviar verifica",2026-07-20 15:12:31,RETR,xtbBpRbr0WpQ4BahggAA3m
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 12:04:08 +0000",Amazon Services <donotreply@amazon.com>,Accountverificatie voltooien om vergoedingen te herstellen,,"96
  Accountverificatie voltooien om vergoedingen te herstellen
  Hallo Weihai EU,
@@ -1026,7 +1071,7 @@ L-1855 Luxembourg,
  We hebben een combinatie van geautomatiseerde middelen gebruikt om deze beslissing te nemen.
  Hoe voltooi ik de verificatie?
  Voer deze stappen uit om je account te verifiëren:
-- Ga naar de pagina Accountstatus door te klikken op 'Verificatie indienen' in",2026-07-20 06:55:19,RETR,xtbBpRzVu2pQ37ye8wAA3j
+- Ga naar de pagina Accountstatus door te klikken op 'Verificatie indienen' in",2026-07-20 15:12:30,RETR,xtbBpRzVu2pQ37ye8wAA3j
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 12:02:02 +0000",Amazon Services <donotreply@amazon.com>,Complete account verification to restore disbursements,,"96
  Complete account verification to restore disbursements
  Hello Weihai EU,
@@ -1039,7 +1084,7 @@ L-1855 Luxembourg,
  How do I complete verification?
  Complete these steps to verify your account:
 - Access to your Account Health page by clicking on 'Submit verification' in the Priority Actions section OR go to the “ Identity Information "" section of Seller Central
-- Follow the prompts to provide th",2026-07-20 06:55:19,RETR,xtbBsx21m2pQ3z2gqgAA3S
+- Follow the prompts to provide th",2026-07-20 15:12:30,RETR,xtbBsx21m2pQ3z2gqgAA3S
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 12:00:06 +0000",Amazon Services <donotreply@amazon.com>,"Ukończ weryfikację konta, aby przywrócić wypłaty środków",,"96
  Ukończ weryfikację konta, aby przywrócić wypłaty środków
  Dzień dobry Weihai EU,
@@ -1051,7 +1096,7 @@ L-1855 Luxembourg,
  Do podjęcia tej decyzji wykorzystaliśmy połączenie zautomatyzowanych środków.
  Jak mogę ukończyć weryfikację?
  Aby zweryfikować konto, wykonaj następujące czynności:
-- Przejdź na stronę Kondycja konta , klikając „Prześlij do weryfikacji” w",2026-07-20 06:55:19,RETR,xtbBswmYfmpQ3smc2gAA33
+- Przejdź na stronę Kondycja konta , klikając „Prześlij do weryfikacji” w",2026-07-20 15:12:29,RETR,xtbBswmYfmpQ3smc2gAA33
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:59:04 +0000",Amazon Services <donotreply@amazon.com>,Slutför kontoverifieringen så att utbetalningarna kan återställas,,"96
  Slutför kontoverifieringen så att utbetalningarna kan återställas
  Hej Weihai EU!
@@ -1063,7 +1108,7 @@ L-1855 Luxembourg,
  Vi har använt oss av olika automatiserade metoder för att fatta det här beslutet.
  Hur slutför jag verifieringen?
  Verifiera ditt konto genom att slutföra följande steg:
-- Gå till sidan Kontostatus genom att klicka på Skicka in verifiering i avsnittet Prioritetsåtgärder ELLER gå till avs",2026-07-20 06:55:19,RETR,xtbBsgyJb2pQ3oydkQAA38
+- Gå till sidan Kontostatus genom att klicka på Skicka in verifiering i avsnittet Prioritetsåtgärder ELLER gå till avs",2026-07-20 15:12:29,RETR,xtbBsgyJb2pQ3oydkQAA38
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:57:07 +0000",Amazon Services <donotreply@amazon.com>,Completa la verifica dell'account per ripristinare i pagamenti,,"96
  Completa la verifica dell'account per ripristinare i pagamenti
  Gentile Weihai EU,
@@ -1075,7 +1120,7 @@ L-1855 Luxembourg,
  Abbiamo utilizzato una combinazione di mezzi automatizzati per prendere questa decisione.
  Come faccio a completare la verifica?
  Completa questa procedura per verificare il tuo account:
-- Accedi alla pag",2026-07-20 06:55:18,RETR,xtbBsxZrUWpQ3haZEAAA3k
+- Accedi alla pag",2026-07-20 15:12:28,RETR,xtbBsxZrUWpQ3haZEAAA3k
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:55:07 +0000",Amazon Services <donotreply@amazon.com>,Complete account verification to restore disbursements,,"96
  Complete account verification to restore disbursements
  Hello Weihai EU,
@@ -1088,7 +1133,7 @@ L-1855 Luxembourg,
  How do I complete verification?
  Complete these steps to verify your account:
 - Access your Account Health page by clicking “Submit verification” in the Priority Actions section OR go to the “ Identity Information ” section of Seller Central
-- Follow the prompts to provide",2026-07-20 06:55:18,RETR,xtbBsx5NM2pQ3Z6WggAA3+
+- Follow the prompts to provide",2026-07-20 15:12:28,RETR,xtbBsx5NM2pQ3Z6WggAA3+
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:53:42 +0000",Amazon Services <donotreply@amazon.com>,Terminez la vérification du compte pour restaurer les versements.,,"96
  Terminez la vérification du compte pour restaurer les versements.
  Bonjour Weihai EU,
@@ -1100,7 +1145,7 @@ L-1855 Luxembourg,
  Nous avons utilisé une combinaison de moyens automatisés pour prendre cette décision.
  Comment effectuer la vérification ?
  Procédez comme suit pour vérifier votre compte :
-- Accédez à votre pag",2026-07-20 06:55:18,RETR,xtbBsgk4HmpQ3UmWKgAA3P
+- Accédez à votre pag",2026-07-20 15:12:28,RETR,xtbBsgk4HmpQ3UmWKgAA3P
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 11:44:42 +0000",亚马逊开店服务 <donotreply@amazon.com>,完成账户验证以恢复付款,,"96
  完成账户验证以恢复付款
  尊敬的 Weihai EU：
@@ -1138,7 +1183,7 @@ L-1855 Luxembourg,
 注册编号 B-101818，
 股本 165.833 欧元，
 营业执照编号： 134248，
-卢森",2026-07-20 06:55:18,RETR,xtbBsw2wlmpQ2y2IewAA3n
+卢森",2026-07-20 15:12:27,RETR,xtbBsw2wlmpQ2y2IewAA3n
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 15:12:23 +0000",Amazon Services <seller-notification@amazon.pl>,Nieuregulowane saldo na koncie Amazon,,"Witamy!
  Masz na swoim koncie nieuregulowane saldo w wysokośc PLN 13.18. Obciążymy tą kwotą kartę kredytową zarejestrowaną jako metoda płatności dla Twojego konta
  Jeśli ta karta ma limit kredytowy, możemy ją obciążać do momentu pełnej spłaty nieuregulowanego salda.
@@ -1147,7 +1192,7 @@ L-1855 Luxembourg,
  Z poważaniem,
  Amazon Payments Europe SCA (société en commandite par actions) to spółka komandytowo-akcyjna zarejestrowana w Luksemburgu, numer rejestracyjny (RCS Luxembourg) B 153 265, z siedzibą pod adresem 38 avenue J.F. Kennedy, L-1855 Luxembourg. Numer VAT: LU 24448288. Amazon Payments Europe SCA posiada upoważnienie Komisji Nadzoru Sektora Finansowego w Luksemburgu do emisji pieniądza elektronicznego (numer licencji 36/10)
  Czy ten e-mail był pomocny?
- SPC-EUAmazon-1389784368647539",2026-07-20 06:55:12,RETR,xtbBpRw0GmpPulxMkAAA3I
+ SPC-EUAmazon-1389784368647539",2026-07-20 15:12:23,RETR,xtbBpRw0GmpPulxMkAAA3I
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 14:31:14 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1159,7 +1204,7 @@ El 07/09/26 14:31 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:11,RETR,xtbBsxbHrWpPsLbHfgAA3V
+Te deseamos un éx",2026-07-20 15:12:21,RETR,xtbBsxbHrWpPsLbHfgAA3V
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 14:31:07 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1174,7 +1219,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:55:11,RETR,xtbBpQ3Fq2pPsK0WUQAA35
+Help us improve your payment experience on Ama",2026-07-20 15:12:21,RETR,xtbBpQ3Fq2pPsK0WUQAA35
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 13:15:46 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1186,7 +1231,7 @@ El 07/08/26 13:15 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:55:06,RETR,xtbBswqjiWpOTYouwwAA3d
+Te deseamos un éx",2026-07-20 15:12:16,RETR,xtbBswqjiWpOTYouwwAA3d
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 12:15:55 +0000",Amazon Europe <donotreply@amazon.com>,"Get your Ireland VAT registration covered – €1,250 paid by Amazon",,"96
  Activate placement in Ireland and Amazon covers your VAT registration and filing costs.
  Dear Seller,
@@ -1202,7 +1247,7 @@ Te deseamos un éx",2026-07-20 06:55:06,RETR,xtbBswqjiWpOTYouwwAA3d
 - Grow revenue : expand into a fast-developing marketplace with increasing demand
 - Lower costs: benefit from extremely competitive domestic FBA fees in Ireland Promotion valid until 31 December 2026 . Eligibility criteria apply.
  Amazon Europe
- Report ",2026-07-20 06:55:05,RETR,xtbBsh4dA2pOP34wUgAA31
+ Report ",2026-07-20 15:12:15,RETR,xtbBsh4dA2pOP34wUgAA31
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 05:23:29 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1214,7 +1259,7 @@ El 07/07/26 05:23 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:54:58,RETR,xtbBsxYmDGpMjVYXowAA3G
+Te deseamos un éx",2026-07-20 15:12:04,RETR,xtbBsxYmDGpMjVYXowAA3G
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sun, 5 Jul 2026 13:51:10 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1226,7 +1271,7 @@ El 07/05/26 13:50 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:54:28,RETR,xtbBshKZf2pKYVKM8QAA3o
+Te deseamos un éx",2026-07-20 15:11:32,RETR,xtbBshKZf2pKYVKM8QAA3o
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 3 Jul 2026 14:39:15 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1238,7 +1283,7 @@ El 07/03/26 14:39 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:54:23,RETR,xtbBpBYE6WpHyZbtGgAA3a
+Te deseamos un éx",2026-07-20 15:11:27,RETR,xtbBpBYE6WpHyZbtGgAA3a
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 3 Jul 2026 10:10:03 +0000","""donotreply@amazon.com"" <donotreply@amazon.com>",✅ Transparency Payment Confirmed!,,"96
  Hello,
 Thank you for your purchase! Your payment has been successfully processed. Here is your payment summary:
@@ -1257,7 +1302,7 @@ You can access all your billing and payments related information by going to you
  I see 'Access Denied' message after logging into the Transparency Portal, what should I do?
 - Please log into your Amazon.com account associated with this email address. If you don't have an account, please create one with this email address.
 - Go to https://www.amazon.com/profile.
-- Copy the URL that was generated in the search bar. The profile link you need to provide will look similar to this: https://www.",2026-07-20 06:54:21,RETR,xtbBsh4uFGpHin4j-QAA3R
+- Copy the URL that was generated in the search bar. The profile link you need to provide will look similar to this: https://www.",2026-07-20 15:11:26,RETR,xtbBsh4uFGpHin4j-QAA3R
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 17:09:13 +0000",The Amazon Services team <donotreply@amazon.com>,Access your January–March 2026 China tax report,,"96
  You can now download your quarterly tax report, which includes data such as identity information, number of transactions, revenue, and commission and service fees.
  Hello,
@@ -1268,7 +1313,7 @@ You can access all your billing and payments related information by going to you
  This report is provided for your reference only; no action is required.
  We’ve also provided a more granular order-level report that displays your quarterly information by transaction.
  Download your order-level report
- Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct",2026-07-20 06:54:18,RETR,xtbBshshB2pGmzs1BwAA3x
+ Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct",2026-07-20 15:11:24,RETR,xtbBshshB2pGmzs1BwAA3x
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 16:54:53 +0000",The Amazon Services team <donotreply@amazon.com>,Access your January - March 2026 China tax report,,"96
  You can now download your quarterly tax report which includes data such as identity information, number of transactions, revenue, and commission and service fees.
  Hello,
@@ -1279,7 +1324,7 @@ You can access all your billing and payments related information by going to you
  This report is provided for your reference only, no action is required.
  We’ve also provided a more granular order-level report that displays your quarterly information by transaction.
  Download your order-level report
- Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct",2026-07-20 06:54:17,RETR,xtbBsgFKMGpGl+EPyAAA3U
+ Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct",2026-07-20 15:11:24,RETR,xtbBsgFKMGpGl+EPyAAA3U
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 14:45:45 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1294,7 +1339,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon Store,
 Amazon Services
-Help us improve your payment experience on Amaz",2026-07-20 06:54:14,RETR,xtbBshz84mpFKBzE3gAA3x
+Help us improve your payment experience on Amaz",2026-07-20 15:11:18,RETR,xtbBshz84mpFKBzE3gAA3x
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 14:43:29 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1306,7 +1351,7 @@ El 07/01/26 14:42 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:54:13,RETR,xtbBpBXawGpFJ5WurwAA33
+Te deseamos un éx",2026-07-20 15:11:17,RETR,xtbBpBXawGpFJ5WurwAA33
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 14:42:06 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1321,7 +1366,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:54:13,RETR,xtbBswHFq2pFJ0FviQAA3z
+Help us improve your payment experience on Ama",2026-07-20 15:11:16,RETR,xtbBswHFq2pFJ0FviQAA3z
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 29 Jun 2026 14:21:30 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1336,7 +1381,7 @@ To find out more about Payment Reports in Seller Central, please visit our offic
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:54:06,RETR,xtbBpQ4mDGpCf24WyAAA3m
+Help us improve your payment experience on Ama",2026-07-20 15:11:07,RETR,xtbBpQ4mDGpCf24WyAAA3m
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 29 Jun 2026 14:17:27 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1348,7 +1393,7 @@ El 06/29/26 14:17 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:54:06,RETR,xtbBshnozmpCfnkewwAA3-
+Te deseamos un éx",2026-07-20 15:11:07,RETR,xtbBshnozmpCfnkewwAA3-
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sun, 28 Jun 2026 03:31:27 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1363,7 +1408,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon Store,
 Amazon Services
-Help us improve your payment experience on Amaz",2026-07-20 06:54:01,RETR,xtbBpRM0GmpAlZOEdQAA3F
+Help us improve your payment experience on Amaz",2026-07-20 15:10:56,RETR,xtbBpRM0GmpAlZOEdQAA3F
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sun, 28 Jun 2026 03:28:55 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1378,7 +1423,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:54:01,RETR,xtbBpRoO82pAlPqAqwAA3t
+Help us improve your payment experience on Ama",2026-07-20 15:10:56,RETR,xtbBpRoO82pAlPqAqwAA3t
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 14:38:10 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1390,7 +1435,7 @@ El 06/26/26 14:37 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:53:58,RETR,xtbBpRYD6Go+jtZ4fwAA3T
+Te deseamos un éx",2026-07-20 15:10:51,RETR,xtbBpRYD6Go+jtZ4fwAA3T
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 14:37:54 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1405,7 +1450,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:53:58,RETR,xtbBsgb+5Go+jsaWoQAA3F
+Help us improve your payment experience on Ama",2026-07-20 15:10:51,RETR,xtbBsgb+5Go+jsaWoQAA3F
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 13:52:57 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1417,7 +1462,7 @@ El 06/25/26 13:52 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:53:48,RETR,xtbBpB2li2o9Mr2nIgAA3K
+Te deseamos un éx",2026-07-20 15:10:41,RETR,xtbBpB2li2o9Mr2nIgAA3K
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 13:51:45 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1432,7 +1477,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:53:48,RETR,xtbBshSTeWo9MnSy9wAA3Y
+Help us improve your payment experience on Ama",2026-07-20 15:10:40,RETR,xtbBshSTeWo9MnSy9wAA3Y
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 13:45:52 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1447,7 +1492,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon Store,
 Amazon Services
-Help us improve your payment experience on Amaz",2026-07-20 06:53:47,RETR,xtbBpBQ7IWo9MRSdkgAA3X
+Help us improve your payment experience on Amaz",2026-07-20 15:10:40,RETR,xtbBpBQ7IWo9MRSdkgAA3X
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 01:48:12 +0000",The Amazon Services team <donotreply@amazon.com>,Updated China tax report link for October - December 2025,,"96
  We’re resending your quarterly tax report which includes data such as identity information, number of transactions, revenue, and commission and service fees.
  Hello,
@@ -1460,7 +1505,7 @@ Help us improve your payment experience on Amaz",2026-07-20 06:53:47,RETR,xtbBpB
  Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct methodology and serves a different purpose.
  We’ll continue to provide you with quarterly updates on data shared with the Chinese tax authority.
  For more information, go to China tax information reporting requirements .
- Note : As previously communicated, some sellers identified potential data discrepancies with the first quarterly tax report covering October to Dec",2026-07-20 06:53:45,RETR,xtbBsgAE6Wo8iOA8YQAA38
+ Note : As previously communicated, some sellers identified potential data discrepancies with the first quarterly tax report covering October to Dec",2026-07-20 15:10:37,RETR,xtbBsgAE6Wo8iOA8YQAA38
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 16:59:05 +0000",The Amazon Services team <donotreply@amazon.com>,Download your China tax report for October - December 2025,,"96
  You can now download your quarterly tax report which includes data such as identity information, number of transactions, revenue, and commission and service fees.
  Hello,
@@ -1471,7 +1516,7 @@ Help us improve your payment experience on Amaz",2026-07-20 06:53:47,RETR,xtbBpB
  This report is provided for your reference only, no action is required.
  We’ve also provided a more granular order-level report that displays your quarterly information by transaction.
  Download your order-level report
- Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct methodology and serves a di",2026-07-20 06:53:40,RETR,xtbBsx0vFWo6u13UkQAA3n
+ Variation between the data in these reports and your payment and Amazon VAT transactions report is expected. Each report uses distinct methodology and serves a di",2026-07-20 15:10:32,RETR,xtbBsx0vFWo6u13UkQAA3n
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 14:09:38 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1486,7 +1531,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:53:40,RETR,xtbBsgY3HWo6k6YTawAA3D
+Help us improve your payment experience on Ama",2026-07-20 15:10:28,RETR,xtbBsgY3HWo6k6YTawAA3D
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 14:09:19 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1498,14 +1543,14 @@ El 06/23/26 14:08 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:53:39,RETR,xtbBsxIyGGo6k5LtWgAA3t
+Te deseamos un éx",2026-07-20 15:10:27,RETR,xtbBsxIyGGo6k5LtWgAA3t
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 16:37:09 +0000",Amazon Services <informacion-vendedor@amazon.mx>,Pago del saldo en tu cuenta de pagos de Vender en Amazon,,"Estimado vendedor:
  Hemos realizado un cargo en tu tarjeta de crédito (Visa) por valor de MXN 192.85 con el fin de saldar tu cuenta de vendedor de Amazon.
  El monto cobrado puede ser inferior al total que debes si tu banco ha impuesto un límite de crédito. Si se da tal caso, seguiremos intentando realizar el cargo cada 24 horas en la tarjeta de crédito hasta que se haya pagado por completo el saldo deudor que presenta tu cuenta de vendedor de Amazon.
  También puedes utilizar la funcionalidad Hacer un pago para liquidar tu cuenta. Para más información, escribe ""hacer un pago"" en la barra de búsqueda de Seller Central.
  Para consultar tu historial de pagos, inicia sesión en tu cuenta y ve a Reportes > Pagos.
  Gracias por vender en Amazon.
- SPC-USAmazon-1636075525324689",2026-07-20 06:53:32,RETR,xtbBsxcvFWo5ZLcWzgAA3G
+ SPC-USAmazon-1636075525324689",2026-07-20 15:10:13,RETR,xtbBsxcvFWo5ZLcWzgAA3G
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 14:05:42 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1520,7 +1565,7 @@ To find out more about Payment Reports in Seller Central, please visit our offic
 We wish you continued success!
 Thank you for selling in the Amazon store,
 Amazon Services
-Help us improve your payment experience on Ama",2026-07-20 06:53:31,RETR,xtbBsxlHLWo5QTlidgAA3-
+Help us improve your payment experience on Ama",2026-07-20 15:10:12,RETR,xtbBsxlHLWo5QTlidgAA3-
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 12:44:57 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1532,7 +1577,7 @@ El 06/22/26 12:44 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:53:31,RETR,xtbBswyHbWo5LkzvzwAA3E
+Te deseamos un éx",2026-07-20 15:10:12,RETR,xtbBswyHbWo5LkzvzwAA3E
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sun, 21 Jun 2026 12:50:33 +0000",Amazon Services <donotreply@amazon.com>,Your payment is on the way,,"96
 This title will display on mobile devices
  Congratulations! Your payment is on the way and will arrive soon.
@@ -1547,7 +1592,7 @@ To learn more about Payment Reports in Seller Central, please visit our official
 We wish you continued success!
 Thank you for selling in the Amazon Store,
 Amazon Services
-Help us improve your payment experience on Amaz",2026-07-20 06:53:29,RETR,xtbBshwnDWo33hzUzwAA3A
+Help us improve your payment experience on Amaz",2026-07-20 15:10:09,RETR,xtbBshwnDWo33hzUzwAA3A
 付款/资金类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 13:23:55 +0000",Amazon Services <donotreply@amazon.com>,Tu pago está en camino,,"96
 This title will display on mobile devices
  ¡Enhorabuena! El pago está de camino y llegará pronto.
@@ -1559,11 +1604,11 @@ El 06/20/26 13:23 WEST, iniciamos una transferencia a tu método de pago (cuenta
  ¿Tienes saldo no disponible en tu cuenta de vendedor? Puede que hayamos reservado algo de dinero para posibles devoluciones, reclamaciones o reversiones de cargo de clientes. En este caso, el saldo de cierre de tu informe de pagos te mostrará el saldo no disponible en reserva.
  ¿Cubren tus ventas las tarifas de Amazon y las devoluciones del periodo de liquidación? El importe del pago refleja las ventas que has hecho y las tarifas de venta aplicadas tanto a dichas ventas como a cualquier promoción o servicio que hayas utilizado. Te recomendamos que revises tu informe de pagos en ""Informes"" de Seller Central para conocer el saldo de cierre.
 Para más información sobre los informes de pagos en Seller Central, visita nuestro curso oficial.
-Te deseamos un éx",2026-07-20 06:53:21,RETR,xtbBpA9oTmo2lG-soAAA3m
+Te deseamos un éx",2026-07-20 15:10:05,RETR,xtbBpA9oTmo2lG-soAAA3m
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Fri, 10 Jul 2026 15:01:39 +0000",Amazon Europe <noreply@sell.amazon.com>,"Manage VAT & EPR Requirements Directly Within Your Pan-European FBA
  Inventory Portal",,"Visit the Pan-EU Portal to Manage Listings,﻿ Compliance &amp; Expansion in EU
                                                     ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏  ‍͏  ͏ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­ ͏‌ ­ ­ ­ ­
-https://go.amazonsellerservices.com/e/229492/2026-07-10/7z4kvj4/6762447069/h/VpEb28",2026-07-20 06:55:20,RETR,xtbBshZGLGpRCVaXmgAA3n
+https://go.amazonsellerservices.com/e/229492/2026-07-10/7z4kvj4/6762447069/h/VpEb28",2026-07-20 15:12:32,RETR,xtbBshZGLGpRCVaXmgAA3n
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 17:38:33 +0000",Amazon Services <donotreply@amazon.com>,Reactivate your EU listings - GPSR compliance required,,"96
  Reactivate your EU listings - GPSR compliance required
  Hello Weihai EU,
@@ -1578,7 +1623,7 @@ https://go.amazonsellerservices.com/e/229492/2026-07-10/7z4kvj4/6762447069/h/VpE
 - Select 'Add filters' and check 'Listing removed' in the ""Filter by action taken"" column.
 - Click 'Submit' next to the deactivated listing and follow the instructions provided.
 - Follow the steps on Suppressed listings to resolve any outstanding listing issues. Existing issues prevent listings from being reactivated, even if you’ve fulfilled all compliance requirements.
- Note: If you’ve recently submitted information on your Account Health page, and no longer ",2026-07-20 06:55:07,RETR,xtbBpRwY-WpOixyXFAAA3s
+ Note: If you’ve recently submitted information on your Account Health page, and no longer ",2026-07-20 15:12:18,RETR,xtbBpRwY-WpOixyXFAAA3s
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 16:17:59 +0000",Amazon Services <donotreply@amazon.com>,Reactivate your EU listings - GPSR compliance required,,"96
  Reactivate your EU listings - GPSR compliance required
  Hello Weihai EU,
@@ -1593,7 +1638,7 @@ https://go.amazonsellerservices.com/e/229492/2026-07-10/7z4kvj4/6762447069/h/VpE
 - Select 'Add filters' and check 'Listing removed' in the ""Filter by action taken"" column.
 - Click 'Submit' next to the deactivated listing and follow the instructions provided.
 - Follow the steps on Suppressed listings to resolve any outstanding listing issues. Existing issues prevent listings from being reactivated, even if you’ve fulfilled all compliance requirements.
- Note: If you’ve recently submitted information on your Account Health page, and no longer ",2026-07-20 06:55:01,RETR,xtbBpBqli2pNJrqrgAAA3A
+ Note: If you’ve recently submitted information on your Account Health page, and no longer ",2026-07-20 15:12:12,RETR,xtbBpBqli2pNJrqrgAAA3A
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 05:08:36 +0000",Amazon Services <donotreply@amazon.com>,Submit product safety documentation to avoid listing deactivation,,"96
  Hello Weihai EU,
  Some of your listings are at risk of deactivation due to missing mandatory compliance requirements for your products. Review the details and next steps below. The affected listings are shown at the end of this email.
@@ -1607,7 +1652,7 @@ https://go.amazonsellerservices.com/e/229492/2026-07-10/7z4kvj4/6762447069/h/VpE
 -
  If you believe your products are exempt from these requirements, submit documentation demonstrating why they are not subject to these compliance requirements.
  For step-by-step instructions, see our Submit compliance documents or appeal a documentation request help page.
- To avoid further impact to your account, close or delete any non-compliant listings that you do",2026-07-20 06:54:58,RETR,xtbBsxhGLGpMidj8tgAA38
+ To avoid further impact to your account, close or delete any non-compliant listings that you do",2026-07-20 15:12:03,RETR,xtbBsxhGLGpMidj8tgAA38
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 13:22:39 +0000",Sell with Amazon <no-reply@sell.amazon.com>,"Get answers from the people who build the tools you use every day.
  Save $100",,"[Amazon logo](https://go.amazonsellerservices.com/e/229492/-ld-EM/7z49s9x/6752554013/h/2aeQsjjzcdEfNdbvcpArxhFF9Du4sBW3WI4zsTSQPBE)
 [Speakers at Accelerate](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z4bmtj/6752554013/h/2aeQsjjzcdEfNdbvcpArxhFF9Du4sBW3WI4zsTSQPBE)
@@ -1620,7 +1665,7 @@ Join us from September 22 to 24 in Seattle to connect with them directly.
 Introducing some of the speakers you'll hear from:
 [A checkmark icon]
 Mary Beth Westmoreland, Vice President, Selling Partner Experience
-Mary Beth's teams are responsible for delivering the tools, exper",2026-07-20 06:54:31,RETR,xtbBpQKghmpLrCJXRQAA38
+Mary Beth's teams are responsible for delivering the tools, exper",2026-07-20 15:11:37,RETR,xtbBpQKghmpLrCJXRQAA38
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 13:08:44 +0000",Amazon Services <donotreply@amazon.com>,Submit product safety documentation to avoid listing deactivation,,"96
  Hello Weihai EU,
  Some of your listings are at risk of deactivation due to missing mandatory compliance requirements for your products. Review the details and next steps below. The affected listings are shown at the end of this email.
@@ -1634,7 +1679,7 @@ Mary Beth's teams are responsible for delivering the tools, exper",2026-07-20 06
 -
  If you believe your products are exempt from these requirements, submit documentation demonstrating why they are not subject to these compliance requirements.
  For step-by-step instructions, see our Submit compliance documents or appeal a documentation request help page.
- To avoid further impact to your account, close or delete any non-compliant listings that you do",2026-07-20 06:54:31,RETR,xtbBswDPtWpLqOD6YQAA37
+ To avoid further impact to your account, close or delete any non-compliant listings that you do",2026-07-20 15:11:36,RETR,xtbBswDPtWpLqOD6YQAA37
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 08:00:54 +0000",Amazon Seller Support <merch.service05@amazon.com>,"RE:[CASE 20858098381] US - Food and Product Safety - ASIN:
  B0DD7R3PPG",,"96
 RE:[CASE 20858098381] US - Food and Product Safety - ASIN: B0DD7R3PPG
@@ -1645,7 +1690,7 @@ https://sellercentral.amazon.com/performance/account/health/product-policies?s=a
 In the meantime, for guidance on reinstatement requirements, please review the details under Performance Notifications in your Account Health Dashboard :
 https://sellercentral.amazon.com/help/hub/reference/GKJRA3FRPRKVBJJS?locale=en-US
 To help us continually improve, we ask that you take a moment to complete our survey below to tell us about your experience with this specific interaction.
-Were you",2026-07-20 06:54:29,RETR,xtbBsxqzmWpLYLq1lAAA3Z
+Were you",2026-07-20 15:11:34,RETR,xtbBsxqzmWpLYLq1lAAA3Z
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 05:35:29 +0000",Amazon Seller Support <merch.service05@amazon.com>,"RE:[CASE 20858098381] US - Food and Product Safety - ASIN:
  B0DD7R3PPG",,"96
 RE:[CASE 20858098381] US - Food and Product Safety - ASIN: B0DD7R3PPG
@@ -1666,7 +1711,7 @@ Visit our Seller Forums for help from other sellers: http://sellercentral.amazon
 Browse all Seller Help topics: http://sellercentral.amazon.com/gp/help
 To contact us again about this issue, please use the Contact Us form in Seller Central using the following link:
 https://sellercentral.amazon.com/cu/case-dashboard/view-case?caseID=20858098381
-Pl",2026-07-20 06:54:29,RETR,xtbBswUmDGpLPqVfUQAA3o
+Pl",2026-07-20 15:11:34,RETR,xtbBswUmDGpLPqVfUQAA3o
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Fri, 3 Jul 2026 06:41:28 +0000",Amazon Seller Support <merch.service05@amazon.com>,"RE:[CASE 20858098381] US - Food and Product Safety - ASIN:
  B0DD7R3PPG",,"96
 RE:[CASE 20858098381] US - Food and Product Safety - ASIN: B0DD7R3PPG
@@ -1677,7 +1722,7 @@ In the meantime, to support reinstatement, please review the details in your Acc
 https://sellercentral.amazon.com/help/hub/reference/external/GKJRA3FRPRKVBJJS?locale=en-US
 You may also refer to the TIC help page:
 https://sellercentral.amazon.com/help/hub/reference/external/GUTZ2R2DD6P2UMVB?locale=en-US
-To help us continually improve, we ask that you take a mom",2026-07-20 06:54:18,RETR,xtbBshzpz2pHWZxSnQAA3v
+To help us continually improve, we ask that you take a mom",2026-07-20 15:11:25,RETR,xtbBshzpz2pHWZxSnQAA3v
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 14:09:44 +0000",Amazon Europe <donotreply@amazon.com>,"Seller Assistant is now live in France, Italy & Spain",,"96
  AI-powered assistance is now available in Seller Central to help you manage your business more efficiently.
  Hello,
@@ -1690,7 +1735,7 @@ To help us continually improve, we ask that you take a mom",2026-07-20 06:54:18,
 - How is my business performing?
 - Which products should I restock to avoid going out of stock?
 - Are there any compliance issues with my current listings?
-- What actions can I take to improve my account ",2026-07-20 06:54:16,RETR,xtbBsgqSeGpGcSqS-QAA3K
+- What actions can I take to improve my account ",2026-07-20 15:11:23,RETR,xtbBsgqSeGpGcSqS-QAA3K
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 13:15:52 +0000",Sell with Amazon <no-reply@sell.amazon.com>,"The Amazon Accelerate 2026 speaker lineup is here! Register now to
  save $100",,"[Amazon logo](https://go.amazonsellerservices.com/e/229492/-ld-EM/7z49sbm/6744236849/h/wes7VJdAGIYNS4DfvXPWWwdvIH7_mIadF_Oxp_jSZW8)
 [Speakers at Accelerate](https://go.amazonsellerservices.com/e/229492/-medium-email-utm-source-email/7z49sbq/6744236849/h/wes7VJdAGIYNS4DfvXPWWwdvIH7_mIadF_Oxp_jSZW8)
@@ -1703,7 +1748,7 @@ Join us from September 22 to 24 in Seattle to connect with them directly.
 Introducing some of the speakers you'll hear from:
 [A checkmark icon]
 Mary Beth Westmoreland, Vice President, Selling Partner Experience
-Mary Beth's teams ",2026-07-20 06:54:12,RETR,xtbBpQyzmWpFEww+xgAA3L
+Mary Beth's teams ",2026-07-20 15:11:15,RETR,xtbBpQyzmWpFEww+xgAA3L
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Tue, 30 Jun 2026 04:09:19 +0000","""seller.service05@amazon.com"" <seller.service05@amazon.com>","[Case ID 20858098381] *UPDATE* US - Food and Product Safety - ASIN:
  B0DD7R3PPG",,"96
 [Case ID 20858098381] *UPDATE* US - Food and Product Safety - ASIN: B0DD7R3PPG
@@ -1711,7 +1756,7 @@ Mary Beth's teams ",2026-07-20 06:54:12,RETR,xtbBpQyzmWpFEww+xgAA3L
 Thanks for your continued patience. We are currently researching your issue in partnership with the responsible team. We'll provide an update as soon as any additional information is available.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-1759220830316787",2026-07-20 06:54:09,RETR,xtbBpRPXvWpDQXO9RAAA3+
+ SPC-USAmazon-1759220830316787",2026-07-20 15:11:10,RETR,xtbBpRPXvWpDQXO9RAAA3+
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Wed, 24 Jun 2026 04:08:32 +0000","""seller.service05@amazon.com"" <seller.service05@amazon.com>","[Case ID 20858098381] *UPDATE* US - Food and Product Safety - ASIN:
  B0DD7R3PPG",,"96
 [Case ID 20858098381] *UPDATE* US - Food and Product Safety - ASIN: B0DD7R3PPG
@@ -1719,7 +1764,7 @@ Thanks for your continued patience. We are currently researching your issue in p
 Thanks for your continued patience. We are currently researching your issue in partnership with the responsible team. We'll provide an update as soon as any additional information is available.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-967572456476444",2026-07-20 06:53:42,RETR,xtbBswSQdmo7WER5igAA3v
+ SPC-USAmazon-967572456476444",2026-07-20 15:10:34,RETR,xtbBswSQdmo7WER5igAA3v
 产品链接/合规类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 02:52:15 +0000","""cscompliance-docreview-seller@amazon.com"" <cscompliance-docreview-seller@amazon.com>","SELLER: A192R36HNXVJ38, ASIN: B0FCDRNTT8, MARKETPLACE: 1 - CSC -
  DOC REVIEW",,"96
 SELLER: A192R36HNXVJ38, ASIN: B0FCDRNTT8, MARKETPLACE: 1 - CSC - DOC REVIEW
@@ -1734,7 +1779,7 @@ dheerann
 Amazon
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-USAmazon-351845946590513",2026-07-20 06:53:34,RETR,xtbBsgJeRGo59OLh1gAA3Y
+ SPC-USAmazon-351845946590513",2026-07-20 15:10:17,RETR,xtbBsgJeRGo59OLh1gAA3Y
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Sun, 12 Jul 2026 17:10:46 +0000",Luana Camargo <notifications@insgly.net>,Worten Marketplace - Portugal y España,,"¡Buenos días!
 Espero que te encuentres bien.
 Mi nombre es Luana Camargo y soy Business Developer en WORTEN Portugal y España, parte de Sonae, uno de los más grandes grupos empresariales en Portugal.
@@ -1745,7 +1790,7 @@ En Portugal, Worten.pt es el sitio de comercio electrónico más visitado y con 
 Es en www.worten.pt y www.worten.es donde puedes mirar nuestro Marketplace.
 Con más de 30 categorías, el Marketplace de Worten quiere ser la plataforma donde los clientes pueden encontrar todo lo que necesitan.
 Con la gran demanda que sentimos, tenemos la oportunidad de aumentar nuestra gama de productos, ¡y trabajar con las mejores empresas es nuestra prioridad !
-Worten Marketplace tiene una estrategia B2C, c",2026-07-20 06:55:25,RETR,xtbBpBpILmpTypofQwAA3t
+Worten Marketplace tiene una estrategia B2C, c",2026-07-20 15:12:42,RETR,xtbBpBpILmpTypofQwAA3t
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 22:17:55 +0000",Amazon Seller Central <donotreply@amazon.com>,"Your Amazon.ca Fulfillment by Amazon Merchant Credit Note for
  6/2026",,"Your Amazon.ca Fulfillment by Amazon Merchant Credit Note for 6/2026
  96
@@ -1763,7 +1808,7 @@ Amazon.ca
  Report an issue with this email
  If you have any questions visit: Seller Central
  To change your email preferences visit: Notification Preferences
- We hope you found this message to be useful. However, if you'",2026-07-20 06:55:12,RETR,xtbBshc7IWpQHhcCzwAA3B
+ We hope you found this message to be useful. However, if you'",2026-07-20 15:12:24,RETR,xtbBshc7IWpQHhcCzwAA3B
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 15:24:05 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.ca Fulfillment by Amazon Merchant Invoice for 6/2026,,"Your Amazon.ca Fulfillment by Amazon Merchant Invoice for 6/2026
  96
 Hello,
@@ -1780,7 +1825,7 @@ Amazon.ca
  Report an issue with this email
  If you have any questions visit: Seller Central
  To change your email preferences visit: Notification Preferences
- We hope you found this message to be useful. However, if you'd ",2026-07-20 06:55:12,RETR,xtbBpBnjyWpPvRlbNAAA35
+ We hope you found this message to be useful. However, if you'd ",2026-07-20 15:12:24,RETR,xtbBpBnjyWpPvRlbNAAA35
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 9 Jul 2026 14:31:47 +0000",Amazon Services <donotreply@amazon.com>,Pagamento elaborato con successo,,"96
 This title will display on mobile devices
  Congratulazioni. Il pagamento è stato elaborato con successo e ti sarà accreditato a breve.
@@ -1790,7 +1835,7 @@ In data 07/09/26 14:31 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
  219,21.
  Se l’importo è inferiore a quanto atteso, tieni in considerazione le seguenti domande:
  Hai un saldo non disponibile? Amazon potrebbe trattenere una certa somma per coprire i costi di eventuali resi, reclami o contestazioni di una transazione (chargeback) da parte degli acquirenti. In questo caso, il saldo finale nel tuo report sui pagamenti mostrerà il saldo non disponibile corrispondente alla cifra trattenuta.
- Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 06:55:11,RETR,xtbBpBnQtmpPsNkYtgAA35
+ Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 15:12:22,RETR,xtbBpBnQtmpPsNkYtgAA35
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 23:30:27 +0000",Amazon Services <donotreply@amazon.com>,"Reactiva tus listings en la UE: se requiere el cumplimiento del
  Reglamento relativo a la seguridad general de los productos",,"96
  Reactiva tus listings en la UE: se requiere el cumplimiento del Reglamento relativo a la seguridad general de los productos
@@ -1804,7 +1849,7 @@ In data 07/09/26 14:31 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
 -
  Ve a la página ""Estado de la cuenta"" .
 - Selecciona ""Añadir filtros"" y marca ""Listing retirado"" en la columna ""Filtrar según las medidas tomadas"".
-- Haz clic en ""Enviar"" junto al listing desactivado y sigue las",2026-07-20 06:55:08,RETR,xtbBsxfKsGpO3ZePfwAA3A
+- Haz clic en ""Enviar"" junto al listing desactivado y sigue las",2026-07-20 15:12:19,RETR,xtbBsxfKsGpO3ZePfwAA3A
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 20:04:53 +0000",Amazon Services <donotreply@amazon.com>,Activeer je EU-productvermeldingen opnieuw - VAPV-naleving vereist,,"96
  Activeer je EU-productvermeldingen opnieuw - VAPV-naleving vereist
  Hallo Weihai EU,
@@ -1818,7 +1863,7 @@ In data 07/09/26 14:31 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
  Ga naar je pagina Accountstatus .
 - Selecteer ‘Filters toevoegen’ en vink ‘Verwijderde productvermelding’ aan in de kolom ‘Filteren op ondernomen actie’.
 - Klik op ‘Indienen’ naast de gedeactiveerde productvermelding en volg de instructies.
-- Volg de stappen op Onderdrukte productvermeldingen om openstaande problemen met de ",2026-07-20 06:55:07,RETR,xtbBpAmzmWpOrWkgXgAA3Z
+- Volg de stappen op Onderdrukte productvermeldingen om openstaande problemen met de ",2026-07-20 15:12:19,RETR,xtbBpAmzmWpOrWkgXgAA3Z
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 15:47:06 +0000",Amazon Services <donotreply@amazon.com>,Umożliw ponowną aktywację ofert w UE – wymagana zgodność z rozporządzeniem w sprawie ogólnego bezpieczeństwa produktów,,"96
  Umożliw ponowną aktywację ofert w UE – wymagana zgodność z rozporządzeniem w sprawie ogólnego bezpieczeństwa produktów
  Dzień dobry Weihai EU,
@@ -1831,7 +1876,7 @@ In data 07/09/26 14:31 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
 -
  Przejdź na stronę Kondycja konta .
 - Wybierz „Dodaj filtry” i w kolumnie „Filtruj według podjętego działania” zaznacz pole „Usunięto ofertę”.
-- Obok zdezaktywowanej oferty produktu kliknij „Prześlij” i postępuj zg",2026-07-20 06:55:07,RETR,xtbBsx6Jb2pOcP5uUgAA3d
+- Obok zdezaktywowanej oferty produktu kliknij „Prześlij” i postępuj zg",2026-07-20 15:12:18,RETR,xtbBsx6Jb2pOcP5uUgAA3d
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 14:10:23 +0000",Luana Camargo <notifications@insgly.net>,Worten Marketplace - Portugal y España,,"Hola Weihai EU,
 Soy Luana Camargo, Business Developer en Worten worten.pt / worten.es , el mayor marketplace de Portugal.
 Nuestro equipo de análisis ha señalado que una asociación con usted sería una gran oportunidad para ambos.
@@ -1844,7 +1889,7 @@ Acerca de Worten - Somos el líder del mercado portugués:
 - Sin costes iniciales - 6 meses
 Estaré encantado de ayudarle si tiene alguna pregunta.
 Muchas gracias,
-Saludos Cordiales",2026-07-20 06:55:06,RETR,xtbBpBPYvmpOWlP9KAAA3p
+Saludos Cordiales",2026-07-20 15:12:17,RETR,xtbBpBPYvmpOWlP9KAAA3p
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 12:46:14 +0000",Amazon Services <donotreply@amazon.com>,Återaktivera dina EU-produktposter – GPSR-efterlevnad krävs,,"96
  Återaktivera dina EU-produktposter – GPSR-efterlevnad krävs
  Hej Weihai EU!
@@ -1858,7 +1903,7 @@ Saludos Cordiales",2026-07-20 06:55:06,RETR,xtbBpBPYvmpOWlP9KAAA3p
  Gå till sidan Kontostatus .
 - Välj Lägg till filter och markera Produktpost borttagen i kolumnen Filtrera efter vidtagen åtgärd.
 - Klicka på Skicka in bredvid den inaktiverade produktposten och följ instruktionerna.
-- Följ stegen på Dolda produktposter för att åtgärda eventuella kvarstående problem med produktposter. Befintliga problem förhindrar att produktposter åter",2026-07-20 06:55:05,RETR,xtbBpRrly2pORppQ2wAA3i
+- Följ stegen på Dolda produktposter för att åtgärda eventuella kvarstående problem med produktposter. Befintliga problem förhindrar att produktposter åter",2026-07-20 15:12:16,RETR,xtbBpRrly2pORppQ2wAA3i
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 10:28:11 +0000",Amazon Services <donotreply@amazon.com>,Riattivare le offerte nell'UE - Richiesta la conformità al Regolamento sulla sicurezza generale dei prodotti,,"96
  Riattivare le offerte nell'UE - Richiesta la conformità al Regolamento sulla sicurezza generale dei prodotti
  Gentile Weihai EU,
@@ -1872,7 +1917,7 @@ Saludos Cordiales",2026-07-20 06:55:06,RETR,xtbBpBPYvmpOWlP9KAAA3p
  Vai alla pagina Stato dell'account .
 - Seleziona ""Aggiungi filtri"" e quindi ""Offerta rimossa"" nella colonna ""Filtra per azione intrapresa"".
 - Clicca su ""Invia"" accanto all'offerta disattivata e segui le istruzioni fornite.
-- Segui la procedura indi",2026-07-20 06:55:05,RETR,xtbBswLHrWpOJkLsRgAA3x
+- Segui la procedura indi",2026-07-20 15:12:15,RETR,xtbBswLHrWpOJkLsRgAA3x
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 09:08:55 +0000",Amazon Services <donotreply@amazon.com>,Réactivez vos mises en vente dans l’UE – Conformité au RSGP requise,,"96
  Réactivez vos mises en vente dans l’UE – Conformité au RSGP requise
  Bonjour Weihai EU,
@@ -1886,7 +1931,7 @@ Saludos Cordiales",2026-07-20 06:55:06,RETR,xtbBpBPYvmpOWlP9KAAA3p
  Accédez à votre page État du compte .
 - Cliquez sur « Ajouter des filtres » et cochez « Mise en vente supprimée » dans la colonne « Filtrer par action prise ».
 - Cliquez sur « Soumettre » à côté du produit mis en vente désactivé et suivez les instructions fournies.
-- Suivez les étapes de la section Mise en vente supprimée",2026-07-20 06:55:04,RETR,xtbBpQkdA2pOE6mb5gAA3R
+- Suivez les étapes de la section Mise en vente supprimée",2026-07-20 15:12:15,RETR,xtbBpQkdA2pOE6mb5gAA3R
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 8 Jul 2026 08:53:55 +0000",亚马逊卖家平台通知 <donotreply@amazon.com>,解决定价错误以重新启售停售商品,,"96
  因错价而被禁止显示
  我们检测到您的 amazon.de 商品信息中可能存在错价。
@@ -1919,7 +1964,7 @@ L-1855 Luxembourg,
 股本 165.833 欧元，
 营业执照编号： 134248，
 卢森堡增值税注册编号 LU 20260743。
- SPC-EUAmazon-1249046879887743",2026-07-20 06:55:04,RETR,xtbBpAY7IWpOECZyHQAA3F
+ SPC-EUAmazon-1249046879887743",2026-07-20 15:12:15,RETR,xtbBpAY7IWpOECZyHQAA3F
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 20:45:55 +0000",Amazon Services <donotreply@amazon.com>,"Reactiva tus listings en la UE: se requiere el cumplimiento del
  Reglamento relativo a la seguridad general de los productos",,"96
  Reactiva tus listings en la UE: se requiere el cumplimiento del Reglamento relativo a la seguridad general de los productos
@@ -1933,7 +1978,7 @@ L-1855 Luxembourg,
 -
  Ve a la página ""Estado de la cuenta"" .
 - Selecciona ""Añadir filtros"" y marca ""Listing retirado"" en la columna ""Filtrar según las medidas tomadas"".
-- Haz clic en ""Enviar"" junto al listing desactivado y sigue las",2026-07-20 06:55:02,RETR,xtbBswZoTmpNZYbfaQAA3h
+- Haz clic en ""Enviar"" junto al listing desactivado y sigue las",2026-07-20 15:12:13,RETR,xtbBswZoTmpNZYbfaQAA3h
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 18:16:40 +0000",Amazon Services <donotreply@amazon.com>,Activeer je EU-productvermeldingen opnieuw - VAPV-naleving vereist,,"96
  Activeer je EU-productvermeldingen opnieuw - VAPV-naleving vereist
  Hallo Weihai EU,
@@ -1947,7 +1992,7 @@ L-1855 Luxembourg,
  Ga naar je pagina Accountstatus .
 - Selecteer ‘Filters toevoegen’ en vink ‘Verwijderde productvermelding’ aan in de kolom ‘Filteren op ondernomen actie’.
 - Klik op ‘Indienen’ naast de gedeactiveerde productvermelding en volg de instructies.
-- Volg de stappen op Onderdrukte productvermeldingen om openstaande problemen met de ",2026-07-20 06:55:02,RETR,xtbBsxmkimpNQpl5egAA37
+- Volg de stappen op Onderdrukte productvermeldingen om openstaande problemen met de ",2026-07-20 15:12:13,RETR,xtbBsxmkimpNQpl5egAA37
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 14:45:21 +0000",Amazon Services <donotreply@amazon.com>,Umożliw ponowną aktywację ofert w UE – wymagana zgodność z rozporządzeniem w sprawie ogólnego bezpieczeństwa produktów,,"96
  Umożliw ponowną aktywację ofert w UE – wymagana zgodność z rozporządzeniem w sprawie ogólnego bezpieczeństwa produktów
  Dzień dobry Weihai EU,
@@ -1960,7 +2005,7 @@ L-1855 Luxembourg,
 -
  Przejdź na stronę Kondycja konta .
 - Wybierz „Dodaj filtry” i w kolumnie „Filtruj według podjętego działania” zaznacz pole „Usunięto ofertę”.
-- Obok zdezaktywowanej oferty produktu kliknij „Prześlij” i postępuj zg",2026-07-20 06:55:01,RETR,xtbBpQMyGGpNEQNFOwAA3H
+- Obok zdezaktywowanej oferty produktu kliknij „Prześlij” i postępuj zg",2026-07-20 15:12:09,RETR,xtbBpQMyGGpNEQNFOwAA3H
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 12:00:55 +0000",Amazon Services <donotreply@amazon.com>,Återaktivera dina EU-produktposter – GPSR-efterlevnad krävs,,"96
  Återaktivera dina EU-produktposter – GPSR-efterlevnad krävs
  Hej Weihai EU!
@@ -1974,7 +2019,7 @@ L-1855 Luxembourg,
  Gå till sidan Kontostatus .
 - Välj Lägg till filter och markera Produktpost borttagen i kolumnen Filtrera efter vidtagen åtgärd.
 - Klicka på Skicka in bredvid den inaktiverade produktposten och följ instruktionerna.
-- Följ stegen på Dolda produktposter för att åtgärda eventuella kvarstående problem med produktposter. Befintliga problem förhindrar att produktposter åter",2026-07-20 06:55:00,RETR,xtbBshuGbGpM6nteQgAA3o
+- Följ stegen på Dolda produktposter för att åtgärda eventuella kvarstående problem med produktposter. Befintliga problem förhindrar att produktposter åter",2026-07-20 15:12:08,RETR,xtbBshuGbGpM6nteQgAA3o
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 09:53:57 +0000",Amazon Services <donotreply@amazon.com>,Riattivare le offerte nell'UE - Richiesta la conformità al Regolamento sulla sicurezza generale dei prodotti,,"96
  Riattivare le offerte nell'UE - Richiesta la conformità al Regolamento sulla sicurezza generale dei prodotti
  Gentile Weihai EU,
@@ -1988,7 +2033,7 @@ L-1855 Luxembourg,
  Vai alla pagina Stato dell'account .
 - Seleziona ""Aggiungi filtri"" e quindi ""Offerta rimossa"" nella colonna ""Filtra per azione intrapresa"".
 - Clicca su ""Invia"" accanto all'offerta disattivata e segui le istruzioni fornite.
-- Segui la procedura indi",2026-07-20 06:55:00,RETR,xtbBsxkP9GpMzLld-gAA3h
+- Segui la procedura indi",2026-07-20 15:12:07,RETR,xtbBsxkP9GpMzLld-gAA3h
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 09:08:27 +0000",Amazon Services <donotreply@amazon.com>,Réactivez vos mises en vente dans l’UE – Conformité au RSGP requise,,"96
  Réactivez vos mises en vente dans l’UE – Conformité au RSGP requise
  Bonjour Weihai EU,
@@ -2002,7 +2047,7 @@ L-1855 Luxembourg,
  Accédez à votre page État du compte .
 - Cliquez sur « Ajouter des filtres » et cochez « Mise en vente supprimée » dans la colonne « Filtrer par action prise ».
 - Cliquez sur « Soumettre » à côté du produit mis en vente désactivé et suivez les instructions fournies.
-- Suivez les étapes de la section Mise en vente supprimée",2026-07-20 06:55:00,RETR,xtbBpA1hR2pMwg0XfAAA3N
+- Suivez les étapes de la section Mise en vente supprimée",2026-07-20 15:12:06,RETR,xtbBpA1hR2pMwg0XfAAA3N
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 05:08:12 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.co.uk Merchant Credit Note for 6/2026,,"Your Amazon.co.uk Merchant Credit Note for 6/2026
  96
 Hello,
@@ -2015,7 +2060,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-650912552430794",2026-07-20 06:54:57,RETR,xtbBpB8-JWpMib8W5gAA3B
+ SPC-EUAmazon-650912552430794",2026-07-20 15:12:03,RETR,xtbBpB8-JWpMib8W5gAA3B
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 04:22:50 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnungskorrektur Verkäufer for 6/2026,,"Your Amazon.de Rechnungskorrektur Verkäufer for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2034,7 +2079,7 @@ Amazon.de
 38 avenue John F. Kennedy,
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
- Gesellschaftskapital: ",2026-07-20 06:54:56,RETR,xtbBpB2UempMfx3GDAAA3Z
+ Gesellschaftskapital: ",2026-07-20 15:12:02,RETR,xtbBpB2UempMfx3GDAAA3Z
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 04:18:37 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.se Kreditnota Säljare for 6/2026,,"Your Amazon.se Kreditnota Säljare for 6/2026
  96
 Hej Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2056,7 +2101,7 @@ Registrerat i Luxemburg No. B-101818
 Aktiekapital 165 833 EUR
 Företagets registreringsnummer: 134248
 Momsregistrering för Luxemburg LU 20260743.
- SPC-EUAmazon-1",2026-07-20 06:54:56,RETR,xtbBsgBVO2pMfiDMTgAA3m
+ SPC-EUAmazon-1",2026-07-20 15:12:01,RETR,xtbBsgBVO2pMfiDMTgAA3m
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 03:58:57 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2078,7 +2123,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
-",2026-07-20 06:54:56,RETR,xtbBpAYtE2pMeYaWcgAA3h
+",2026-07-20 15:11:58,RETR,xtbBpAYtE2pMeYaWcgAA3h
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 03:24:51 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Creditnota Fulfillment by Amazon for 6/2026,,"Your Amazon.nl Creditnota Fulfillment by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2096,7 +2141,7 @@ Amazon.nl
  Amazon Services Europe S.à r.l.
 38 avenue John F. Kennedy
 L-1855 Luxemburg
-Geregistreerd in",2026-07-20 06:54:55,RETR,xtbBpAUrEWpMcYVNjwAA3L
+Geregistreerd in",2026-07-20 15:11:55,RETR,xtbBpAUrEWpMcYVNjwAA3L
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 03:10:44 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Creditnota Verkoper for 6/2026,,"Your Amazon.nl Creditnota Verkoper for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2115,7 +2160,7 @@ Amazon.nl
 38 avenue John F. Kennedy
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
-RCS Luxemburg N",2026-07-20 06:54:55,RETR,xtbBpRZWPGpMbjYrbAAA3g
+RCS Luxemburg N",2026-07-20 15:11:54,RETR,xtbBpRZWPGpMbjYrbAAA3g
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 03:00:23 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Nota de Crédito Vendedor for 6/2026,,"Your Amazon.es Nota de Crédito Vendedor for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2137,7 +2182,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-E",2026-07-20 06:54:55,RETR,xtbBsgu6oGpMa8sUDwAA3+
+ SPC-E",2026-07-20 15:11:54,RETR,xtbBsgu6oGpMa8sUDwAA3+
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 02:41:16 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2159,7 +2204,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
-",2026-07-20 06:54:54,RETR,xtbBsxCbgWpMZ1C1wAAA3d
+",2026-07-20 15:11:53,RETR,xtbBsxCbgWpMZ1C1wAAA3d
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 02:20:20 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.com.be Creditnota Verkoper for 6/2026,,"Your Amazon.com.be Creditnota Verkoper for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2174,7 +2219,7 @@ Nous vous écrivons pour vous informer que votre Avoir Vendeur pour le mois de 6
 Pour accéder à votre avoir, rendez-vous sur votre compte Seller Central et veuillez accéder à la page Rapports > Bibliothèque d'informations fiscales > Factures des frais du vendeur.
 Dans votre compte Seller Central, vous pourrez afficher, télécharger ou imprimer votre avoir.
 Pour toute question, contactez le Support Vendeur.
-Cordialemen",2026-07-20 06:54:54,RETR,xtbBpQhgRmpMYmiVmAAA3q
+Cordialemen",2026-07-20 15:11:53,RETR,xtbBpQhgRmpMYmiVmAAA3q
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 02:05:26 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Creditnota Fulfillment by Amazon for 6/2026,,"Your Amazon.nl Creditnota Fulfillment by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2192,7 +2237,7 @@ Amazon.nl
  Amazon Services Europe S.à r.l.
 38 avenue John F. Kennedy
 L-1855 Luxemburg
-Geregistreerd in",2026-07-20 06:54:54,RETR,xtbBpAt-ZWpMXutjeAAA39
+Geregistreerd in",2026-07-20 15:11:53,RETR,xtbBpAt-ZWpMXutjeAAA39
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 02:01:10 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2212,7 +2257,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:54,RETR,xtbBsgo-JWpMXepeSgAA3n
+Gewer",2026-07-20 15:11:52,RETR,xtbBsgo-JWpMXepeSgAA3n
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 00:33:27 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2226,7 +2271,7 @@ Amazon.com.be
 Nous vous écrivons pour vous informer que votre Facture Expédié Par Amazon pour le mois de 6/2026 est maintenant disponible dans votre compte Seller Central.
 Pour accéder à votre facture, rendez-vous sur votre compte Seller Central et veuillez accéder à la page Rapports > Bibliothèque d'informations fiscales > Factures des frais du vendeur.
 Dans votre compte Seller Central, vous pourrez afficher, télécharger ou imprimer votre facture.
-Pour toute question, contactez le S",2026-07-20 06:54:53,RETR,xtbBpBsW+2pMSVuFjwAA3s
+Pour toute question, contactez le S",2026-07-20 15:11:51,RETR,xtbBpBsW+2pMSVuFjwAA3s
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 00:22:23 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.co.uk Merchant Invoice for 6/2026,,"Your Amazon.co.uk Merchant Invoice for 6/2026
  96
 Hello,
@@ -2239,7 +2284,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-70370412601223",2026-07-20 06:54:53,RETR,xtbBpQBvVWpMRsB3+QAA3x
+ SPC-EUAmazon-70370412601223",2026-07-20 15:11:50,RETR,xtbBpQBvVWpMRsB3+QAA3x
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 7 Jul 2026 00:13:46 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2259,7 +2304,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:52,RETR,xtbBpR3t02pMRL1k+AAA3F
+Gewer",2026-07-20 15:11:50,RETR,xtbBpR3t02pMRL1k+AAA3F
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 23:07:09 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2273,7 +2318,7 @@ Amazon.com.be
 Nous vous écrivons pour vous informer que votre Facture Expédié Par Amazon pour le mois de 6/2026 est maintenant disponible dans votre compte Seller Central.
 Pour accéder à votre facture, rendez-vous sur votre compte Seller Central et veuillez accéder à la page Rapports > Bibliothèque d'informations fiscales > Factures des frais du vendeur.
 Dans votre compte Seller Central, vous pourrez afficher, télécharger ou imprimer votre facture.
-Pour toute question, contactez le S",2026-07-20 06:54:51,RETR,xtbBpQAD6GpMNSAPIgAA3Q
+Pour toute question, contactez le S",2026-07-20 15:11:49,RETR,xtbBpQAD6GpMNSAPIgAA3Q
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 21:44:31 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2293,7 +2338,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:51,RETR,xtbBsgMmDGpMIcMLggAA3W
+Gewer",2026-07-20 15:11:49,RETR,xtbBsgMmDGpMIcMLggAA3W
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 21:29:53 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Verkäufer for 6/2026,,"Your Amazon.de Rechnung Verkäufer for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2313,7 +2358,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewerbelizenznummer: 134248",2026-07-20 06:54:50,RETR,xtbBpRRKMGpMHlQEvwAA3c
+Gewerbelizenznummer: 134248",2026-07-20 15:11:48,RETR,xtbBpRRKMGpMHlQEvwAA3c
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 21:23:16 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.com.be Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2327,7 +2372,7 @@ Amazon.com.be
 Nous vous écrivons pour vous informer que votre Facture Expédié Par Amazon pour le mois de 6/2026 est maintenant disponible dans votre compte Seller Central.
 Pour accéder à votre facture, rendez-vous sur votre compte Seller Central et veuillez accéder à la page Rapports > Bibliothèque d'informations fiscales > Factures des frais du vendeur.
 Dans votre compte Seller Central, vous pourrez afficher, télécharger ou imprimer votre facture.
-Pour toute question, contactez le S",2026-07-20 06:54:49,RETR,xtbBswbly2pMHMa8FgAA3N
+Pour toute question, contactez le S",2026-07-20 15:11:48,RETR,xtbBswbly2pMHMa8FgAA3N
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 21:07:51 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.se Faktura Fraktas Av Amazon for 6/2026,,"Your Amazon.se Faktura Fraktas Av Amazon for 6/2026
  96
 Hej Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2349,7 +2394,7 @@ Registrerat i Luxemburg No. B-101818
 Aktiekapital 165 833 EUR
 Företagets registreringsnummer: 134248
 Momsregistrering för Luxemburg LU 20260743.
- SPC-EU",2026-07-20 06:54:44,RETR,xtbBswv942pMGSus-wAA3h
+ SPC-EU",2026-07-20 15:11:47,RETR,xtbBswv942pMGSus-wAA3h
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:56:46 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2371,7 +2416,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-EUAmazon-52",2026-07-20 06:54:44,RETR,xtbBpBJXPWpMFpLXDwAA3m
+ SPC-EUAmazon-52",2026-07-20 15:11:47,RETR,xtbBpBJXPWpMFpLXDwAA3m
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:36:00 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2391,7 +2436,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:43,RETR,xtbBshMeBGpMEbPGjAAA31
+Gewer",2026-07-20 15:11:46,RETR,xtbBshMeBGpMEbPGjAAA31
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:27:56 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Vendedor for 6/2026,,"Your Amazon.es Factura Vendedor for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2413,7 +2458,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-EUAmazon-474990694784361",2026-07-20 06:54:43,RETR,xtbBsw6kimpMD86EnAAA3s
+ SPC-EUAmazon-474990694784361",2026-07-20 15:11:46,RETR,xtbBsw6kimpMD86EnAAA3s
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:23:50 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2432,7 +2477,7 @@ Amazon.nl
 38 avenue John F. Kennedy
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
-RCS L",2026-07-20 06:54:43,RETR,xtbBshtnTWpMDtu7ngAA3V
+RCS L",2026-07-20 15:11:45,RETR,xtbBshtnTWpMDtu7ngAA3V
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:07:18 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.se Faktura Säljare for 6/2026,,"Your Amazon.se Faktura Säljare for 6/2026
  96
 Hej Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2454,7 +2499,7 @@ Registrerat i Luxemburg No. B-101818
 Aktiekapital 165 833 EUR
 Företagets registreringsnummer: 134248
 Momsregistrering för Luxemburg LU 20260743.
- SPC-EUAmazon-1899957765924",2026-07-20 06:54:43,RETR,xtbBsxpuVGpMCvpxxgAA3y
+ SPC-EUAmazon-1899957765924",2026-07-20 15:11:45,RETR,xtbBsxpuVGpMCvpxxgAA3y
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 20:02:23 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.se Faktura Fraktas Av Amazon for 6/2026,,"Your Amazon.se Faktura Fraktas Av Amazon for 6/2026
  96
 Hej Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2476,7 +2521,7 @@ Registrerat i Luxemburg No. B-101818
 Aktiekapital 165 833 EUR
 Företagets registreringsnummer: 134248
 Momsregistrering för Luxemburg LU 20260743.
- SPC-EU",2026-07-20 06:54:42,RETR,xtbBshMkCmpMCdOnOgAA3u
+ SPC-EU",2026-07-20 15:11:45,RETR,xtbBshMkCmpMCdOnOgAA3u
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 19:58:54 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2498,7 +2543,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-EUAmazon-18",2026-07-20 06:54:42,RETR,xtbBpALv1WpMCQKfkgAA38
+ SPC-EUAmazon-18",2026-07-20 15:11:45,RETR,xtbBpALv1WpMCQKfkgAA38
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 19:55:57 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Factuur Verkoper for 6/2026,,"Your Amazon.nl Factuur Verkoper for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2518,7 +2563,7 @@ Amazon.nl
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
 RCS Luxemburg Nr: B-93815
-Z",2026-07-20 06:54:42,RETR,xtbBsxDDqWpMCFBl0QAA3D
+Z",2026-07-20 15:11:44,RETR,xtbBsxDDqWpMCFBl0QAA3D
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 19:16:22 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2540,7 +2585,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-EUAmazon-68",2026-07-20 06:54:41,RETR,xtbBswpvVWpL-wpDqQAA39
+ SPC-EUAmazon-68",2026-07-20 15:11:44,RETR,xtbBswpvVWpL-wpDqQAA39
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 19:05:55 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.pl Faktura Sprzedawcy for 6/2026,,"Your Amazon.pl Faktura Sprzedawcy for 6/2026
  96
 Cześć Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2560,7 +2605,7 @@ Amazon.pl
 L-1855 Luksemburg,
 spółka zarejestrowana w Luksemburgu pod nr. B-101818,
 kapitał zakładowy: 165,833 EUR,
-numer zezwolenia na prow",2026-07-20 06:54:41,RETR,xtbBpRbRt2pL-JZ5swAA3U
+numer zezwolenia na prow",2026-07-20 15:11:44,RETR,xtbBpRbRt2pL-JZ5swAA3U
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 18:55:02 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.co.uk Fulfillment by Amazon Merchant Invoice for 6/2026,,"Your Amazon.co.uk Fulfillment by Amazon Merchant Invoice for 6/2026
  96
 Hello,
@@ -2573,7 +2618,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-721281296945131",2026-07-20 06:54:41,RETR,xtbBpAkuFGpL+glnWwAA35
+ SPC-EUAmazon-721281296945131",2026-07-20 15:11:43,RETR,xtbBpAkuFGpL+glnWwAA35
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 18:14:51 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2592,7 +2637,7 @@ Amazon.nl
 38 avenue John F. Kennedy
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
-RCS L",2026-07-20 06:54:40,RETR,xtbBpB-QtmpL8J9COwAA3q
+RCS L",2026-07-20 15:11:43,RETR,xtbBpB-QtmpL8J9COwAA3q
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:47:27 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.se Faktura Fraktas Av Amazon for 6/2026,,"Your Amazon.se Faktura Fraktas Av Amazon for 6/2026
  96
 Hej Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2614,7 +2659,7 @@ Registrerat i Luxemburg No. B-101818
 Aktiekapital 165 833 EUR
 Företagets registreringsnummer: 134248
 Momsregistrering för Luxemburg LU 20260743.
- SPC-EU",2026-07-20 06:54:40,RETR,xtbBpBM0GmpL6jMdZwAA3b
+ SPC-EU",2026-07-20 15:11:42,RETR,xtbBpBM0GmpL6jMdZwAA3b
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:46:42 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.ie Merchant Invoice for 6/2026,,"Your Amazon.ie Merchant Invoice for 6/2026
  96
 Hello,
@@ -2627,7 +2672,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-1354599996090561",2026-07-20 06:54:40,RETR,xtbBswUpD2pL6gXlawAA3Q
+ SPC-EUAmazon-1354599996090561",2026-07-20 15:11:42,RETR,xtbBswUpD2pL6gXlawAA3Q
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:31:36 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2647,7 +2692,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:40,RETR,xtbBpRxGLGpL5nwNoQAA3E
+Gewer",2026-07-20 15:11:42,RETR,xtbBpRxGLGpL5nwNoQAA3E
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:28:53 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.ie Fulfillment by Amazon Merchant Invoice for 6/2026,,"Your Amazon.ie Fulfillment by Amazon Merchant Invoice for 6/2026
  96
 Hello,
@@ -2660,7 +2705,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-1495337485165054",2026-07-20 06:54:39,RETR,xtbBpRkdA2pL5dkKxQAA3w
+ SPC-EUAmazon-1495337485165054",2026-07-20 15:11:42,RETR,xtbBpRkdA2pL5dkKxQAA3w
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:10:41 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2679,7 +2724,7 @@ Amazon.nl
 38 avenue John F. Kennedy
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
-RCS L",2026-07-20 06:54:39,RETR,xtbBpBQL8GpL4ZTuwAAA3x
+RCS L",2026-07-20 15:11:41,RETR,xtbBpBQL8GpL4ZTuwAAA3x
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 17:01:49 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.ae Fulfillment by Amazon Merchant Invoice for 6/2026,,"Your Amazon.ae Fulfillment by Amazon Merchant Invoice for 6/2026
  96
 Hello,
@@ -2692,7 +2737,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-1125901580155708",2026-07-20 06:54:39,RETR,xtbBpR+EampL33-rAwAA39
+ SPC-EUAmazon-1125901580155708",2026-07-20 15:11:41,RETR,xtbBpR+EampL33-rAwAA39
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 16:42:42 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.co.uk AGL Merchant Self-Billing Invoice for 6/2026,,"Your Amazon.co.uk AGL Merchant Self-Billing Invoice for 6/2026
  96
 Hello,
@@ -2705,7 +2750,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-2146248369500277",2026-07-20 06:54:38,RETR,xtbBpQVlS2pL2wXQSAAA3p
+ SPC-EUAmazon-2146248369500277",2026-07-20 15:11:40,RETR,xtbBpQVlS2pL2wXQSAAA3p
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 16:21:50 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.es Factura Logística de Amazon for 6/2026,,"Your Amazon.es Factura Logística de Amazon for 6/2026
  96
 Hola, Shen zhen shi wei hai zhong xin ke ji you xian:
@@ -2727,7 +2772,7 @@ Número de Registro en Luxemburgo: No. B-101818,
 Capital Social 165.833 EUR,
 Número de licencia de actividad: 134248,
 Nº de Registro IVA en Luxemburgo: LU 20260743.
- SPC-EUAmazon-87",2026-07-20 06:54:38,RETR,xtbBpQArEWpL1iCqvQAA3f
+ SPC-EUAmazon-87",2026-07-20 15:11:40,RETR,xtbBpQArEWpL1iCqvQAA3f
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 16:02:53 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.de Rechnung Versand durch Amazon for 6/2026,,"Your Amazon.de Rechnung Versand durch Amazon for 6/2026
  96
 Guten Tag Shen zhen shi wei hai zhong xin ke ji you xian!
@@ -2747,7 +2792,7 @@ Amazon.de
 L-1855 Luxemburg,
 Handelsregisternummer Luxemburg: B-101818,
  Gesellschaftskapital: 165.833 EUR,
-Gewer",2026-07-20 06:54:37,RETR,xtbBpA8N8mpL0a929AAA3J
+Gewer",2026-07-20 15:11:39,RETR,xtbBpA8N8mpL0a929AAA3J
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 15:46:03 +0000",Amazon Seller Central <donotreply@amazon.com>,"Your VAT invoice for EPR Pay on Behalf charges for Amazon.co.uk
  sales",,"Your VAT invoice for EPR Pay on Behalf charges for Amazon.co.uk sales
  96
@@ -2758,7 +2803,7 @@ To access your EPR Pay on Behalf invoice , open the attachment in this email or 
 For a category-level summary of the fees charged, applicable reporting periods, and EPR categories, go to Transaction View with Service Fees as Transaction type, and search for ""EPR"" in the ""Product Details"" column.
 For an ASIN-level summary of your EPR eco-contribution fees, applicable reporting periods, and EPR categories and sub-categories, go to EPR Category Reports .
  Why was I charged?
-Effective January 1, 2025, Extended Producer Responsibility (EPR) requirements apply to packaging sold in the UK, under the Packaging (EP",2026-07-20 06:54:35,RETR,xtbBpB0Q9WpLzb1WCwAA3Q
+Effective January 1, 2025, Extended Producer Responsibility (EPR) requirements apply to packaging sold in the UK, under the Packaging (EP",2026-07-20 15:11:39,RETR,xtbBpB0Q9WpLzb1WCwAA3Q
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 15:40:18 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.com.be Factuur Verkoper for 6/2026,,"Your Amazon.com.be Factuur Verkoper for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2774,7 +2819,7 @@ Pour accéder à votre facture, rendez-vous sur votre compte Seller Central et v
 Dans votre compte Seller Central, vous pourrez afficher, télécharger ou imprimer votre facture.
 Pour toute question, contactez le Support Vendeur.
 Cordialement,
-Ama",2026-07-20 06:54:35,RETR,xtbBpAa5n2pLzGZLmAAA3c
+Ama",2026-07-20 15:11:39,RETR,xtbBpAa5n2pLzGZLmAAA3c
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 15:35:08 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026,,"Your Amazon.nl Factuur Fulfilled by Amazon for 6/2026
  96
 Beste Shen zhen shi wei hai zhong xin ke ji you xian,
@@ -2793,7 +2838,7 @@ Amazon.nl
 38 avenue John F. Kennedy
 L-1855 Luxemburg
 Geregistreerd in Luxemburg
-RCS L",2026-07-20 06:54:35,RETR,xtbBsw5rUWpLyy4KTgAA3H
+RCS L",2026-07-20 15:11:39,RETR,xtbBsw5rUWpLyy4KTgAA3H
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 15:30:53 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.co.uk Fulfillment by Amazon Merchant Invoice for 6/2026,,"Your Amazon.co.uk Fulfillment by Amazon Merchant Invoice for 6/2026
  96
 Hello,
@@ -2806,7 +2851,7 @@ The Amazon Services Team
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
  Copyright 2026 Amazon, Inc, or its affiliates. All rights reserved.
  Amazon.com, 410 Terry Avenue North, Seattle, WA 98109-5210
- SPC-EUAmazon-510175065790408",2026-07-20 06:54:34,RETR,xtbBpREsEmpLyjFCOQAA3r
+ SPC-EUAmazon-510175065790408",2026-07-20 15:11:38,RETR,xtbBpREsEmpLyjFCOQAA3r
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 14:51:08 +0000",Amazon Seller Central <donotreply@amazon.com>,Your Amazon.ae Merchant Invoice for 6/2026,,"Your Amazon.ae Merchant Invoice for 6/2026
  96
 Hello,
@@ -2824,7 +2869,7 @@ Amazon.ae
  If you have any questions visit: Seller Central
  To change your email preferences visit: Notification Preferences
  We hope you found this message to be useful. However, if you'd rather not receive future e-mails of this sort from Amazon.com, please opt-out here.
- Copyright 2026 Amazon, Inc, or its affilia",2026-07-20 06:54:34,RETR,xtbBsgHVu2pLwOHzHwAA3x
+ Copyright 2026 Amazon, Inc, or its affilia",2026-07-20 15:11:38,RETR,xtbBsgHVu2pLwOHzHwAA3x
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Sun, 5 Jul 2026 13:53:08 +0000",Amazon Services <donotreply@amazon.com>,Votre paiement est en cours,,"96
 This title will display on mobile devices
  Félicitations ! Votre paiement est en cours et arrivera sous peu.
@@ -2834,7 +2879,7 @@ Le 07/05/26 13:52 CEST, nous avons effectué un virement d’un montant de €
  204.83 sur le compte lié à votre méthode de paiement (compte bancaire se terminant par 229).
  Si le montant est inférieur au montant auquel vous vous attendiez, voici quelques questions à vous poser :
  Disposez-vous d’un solde de fonds non disponibles ? Amazon peut réserver des fonds afin de couvrir des retours, des réclamations ou des rétrofacturations potentiels des acheteurs. Si tel est le cas, le solde de fin de période de votre rapport sur les paiements affichera le solde des fonds non disponibles réservé.
- Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 06:54:28,RETR,xtbBsgi3nWpKYciPDAAA3a
+ Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 15:11:32,RETR,xtbBsgi3nWpKYciPDAAA3a
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Sun, 5 Jul 2026 12:49:39 +0000",Amazon Services <donotreply@amazon.com>,Pagamento elaborato con successo,,"96
 This title will display on mobile devices
  Congratulazioni. Il pagamento è stato elaborato con successo e ti sarà accreditato a breve.
@@ -2844,7 +2889,7 @@ In data 07/05/26 12:49 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
  157,02.
  Se l’importo è inferiore a quanto atteso, tieni in considerazione le seguenti domande:
  Hai un saldo non disponibile? Amazon potrebbe trattenere una certa somma per coprire i costi di eventuali resi, reclami o contestazioni di una transazione (chargeback) da parte degli acquirenti. In questo caso, il saldo finale nel tuo report sui pagamenti mostrerà il saldo non disponibile corrispondente alla cifra trattenuta.
- Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 06:54:27,RETR,xtbBpQb64GpKUuZFyAAA3g
+ Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 15:11:32,RETR,xtbBpQb64GpKUuZFyAAA3g
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 14:26:45 +0000",Amazon Services Europe <donotreply@amazon.com>,"El Asistente de vendedores ya está activo en Francia, Italia y España",,"96
  La asistencia con tecnología de IA ya está disponible en Seller Central para ayudarte a gestionar tu negocio de forma más eficiente.
  Hola:
@@ -2853,7 +2898,7 @@ In data 07/05/26 12:49 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
  El Asistente de vendedores proporciona orientación sobre nuestras herramientas, políticas y procesos utilizando información disponible en Seller Central, junto con respuestas personalizadas basadas en los datos de tu cuenta. Esto te permite obtener rápidamente información relacionada con el rendimiento de tu negocio, planificación de inventario, listing, cumplimiento normativo y estado de la cuenta sin navegar por múltiples páginas.
  El Asistente de vendedores está diseñado para reducir el esfuerzo en la gestión empresarial diaria y facilitar una toma de decisiones más rápida e informada.
  Probar el Asistente de vendedores
- Empieza a usar el Asistente de vendedores para obtener respuestas rápidas a preguntas emp",2026-07-20 06:54:17,RETR,xtbBsgaSeGpGdSa7CwAA3R
+ Empieza a usar el Asistente de vendedores para obtener respuestas rápidas a preguntas emp",2026-07-20 15:11:24,RETR,xtbBsgaSeGpGdSa7CwAA3R
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 14:11:01 +0000",Luana Camargo <notifications@insgly.net>,Worten Marketplace - Portugal y España,,"Hola Weihai EU,
 Soy Luana Camargo, Business Developer en Worten worten.pt / worten.es , el mayor marketplace de Portugal.
 Nuestro equipo de análisis ha señalado que una asociación con usted sería una gran oportunidad para ambos.
@@ -2866,7 +2911,7 @@ Acerca de Worten - Somos el líder del mercado portugués:
 - Sin costes iniciales - 6 meses
 Estaré encantado de ayudarle si tiene alguna pregunta.
 Muchas gracias,
-Saludos Cordiales",2026-07-20 06:54:17,RETR,xtbBpRimjGpGcXiCyAAA34
+Saludos Cordiales",2026-07-20 15:11:24,RETR,xtbBpRimjGpGcXiCyAAA34
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 2 Jul 2026 13:49:18 +0000",Amazon Europe <donotreply@amazon.com>,"L'assistente venditori è ora attivo in Francia, Italia e Spagna",,"96
  L'assistenza basata su AI è ora disponibile in Seller Central per aiutarti a gestire la tua attività in modo più efficiente.
  Buongiorno,
@@ -2876,7 +2921,7 @@ Saludos Cordiales",2026-07-20 06:54:17,RETR,xtbBpRimjGpGcXiCyAAA34
  L''assistente venditori è progettato per ridurre lo sforzo nella gestione quotidiana dell''attività e supportare un processo decisionale più rapido e informato.
  Prova assistente venditori
  Inizia a utilizzare l'assistente venditori per ottenere risposte rapide a domande relative alla tua attività, come:
-",2026-07-20 06:54:16,RETR,xtbBpAJfRWpGbGJUbwAA3l
+",2026-07-20 15:11:23,RETR,xtbBpAJfRWpGbGJUbwAA3l
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 16:04:35 +0000",Amazon Services <donotreply@amazon.com>,Presentar información de cumplimiento normativo de la RAP en Portugal,,"96
  La normativa portuguesa sobre la RAP se aplica a los productos vendidos a clientes de Portugal.
  Hola,
@@ -2888,7 +2933,7 @@ Tienes que presentarnos los números de registro de la RAP para las siguientes c
 - Pilas y baterías Para presentarnos tu número de registro de la normativa y demostrar su cumplimiento normativo, sigue los pasos que se indican a continuación:
 - En tu cuenta de Seller Central de España, ve a  Estado de la cuenta .
 - Selecciona  Cumplimiento normativo .
-- Selecciona  Enviar información so",2026-07-20 06:54:14,RETR,xtbBpRSfhWpFOpRbowAA3S
+- Selecciona  Enviar información so",2026-07-20 15:11:18,RETR,xtbBpRSfhWpFOpRbowAA3S
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 02:53:05 +0000","""donotreply@amazon.com"" <donotreply@amazon.com>",Transparency Invoice/Credit note for 06/2026,,"96
  Dear Customer,
  Please click on the link below to access your Transparency electronic invoice/credit note in the Transparency Portal. If you see an '...
@@ -2901,7 +2946,7 @@ Tienes que presentarnos los números de registro de la RAP para las siguientes c
 - Go to http://www.amazon.com/profile .
 - Copy the URL that was generated in the search bar. The profile link you need to provide will look similar to this: https://www.amazon.com/gp/profile/amzn1.account.XXXXXXXXXXXXXXXXXXXXXXXX
 - Create an email to transparency-support@amazon.com , paste the URL that you copied into the body of the email, and click 'Send'.
- We will provide",2026-07-20 06:54:11,RETR,xtbBsxMQ9WpEgRPaDQAA3u
+ We will provide",2026-07-20 15:11:14,RETR,xtbBsxMQ9WpEgRPaDQAA3u
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 30 Jun 2026 00:26:34 +0000",Assistenza venditori Amazon <merch.service05@amazon.it>,<p>Grazie per aver creato un nuovo caso: -- 12929127032</p>,,"96
 <p>Grazie per aver creato un nuovo caso: -- 12929127032</p>
  La ringraziamo per aver contattato il Supporto al venditore di Amazon.
@@ -2911,7 +2956,7 @@ Per contattarci nuovamente riguardo a questo problema utilizzi il modulo di cont
  https://sellercentral-europe.amazon.com/cu/case-dashboard/view-case?caseID=12929127032
 Se desidera ricevere aiuto da altri venditori, può visitare il nostro Forum per i venditori a questo link: https://sellercentral.amazon.it/forums/
 La preghiamo di non rispondere a questo messaggio. Questa e-mail è stata inviata da un indirizzo che non accetta posta in entrata.
- Copyright 2026 Amazon.com, Inc. o le relative società affiliate. Tutti i diritti",2026-07-20 06:54:08,RETR,xtbBsx29o2pDDT08LQAA34
+ Copyright 2026 Amazon.com, Inc. o le relative società affiliate. Tutti i diritti",2026-07-20 15:11:09,RETR,xtbBsx29o2pDDT08LQAA34
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 29 Jun 2026 14:10:24 +0000",Luana Camargo <notifications@insgly.net>,Worten Marketplace - Portugal y España,,"¡Buenos días!
 Espero que te encuentres bien.
 Mi nombre es Luana Camargo y soy Business Developer en WORTEN Portugal y España, parte de Sonae, uno de los más grandes grupos empresariales en Portugal.
@@ -2922,7 +2967,7 @@ En Portugal, Worten.pt es el sitio de comercio electrónico más visitado y con 
 Es en www.worten.pt y www.worten.es donde puedes mirar nuestro Marketplace.
 Con más de 30 categorías, el Marketplace de Worten quiere ser la plataforma donde los clientes pueden encontrar todo lo que necesitan.
 Con la gran demanda que sentimos, tenemos la oportunidad de aumentar nuestra gama de productos, ¡y trabajar con las mejores empresas es nuestra prioridad !
-Worten Marketplace tiene una estrategia B2C, c",2026-07-20 06:54:05,RETR,xtbBpBR-ZWpCfNQBAgAA3p
+Worten Marketplace tiene una estrategia B2C, c",2026-07-20 15:11:06,RETR,xtbBpBR-ZWpCfNQBAgAA3p
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 14:40:10 +0000",Amazon Services <donotreply@amazon.com>,Votre paiement est en cours,,"96
 This title will display on mobile devices
  Félicitations ! Votre paiement est en cours et arrivera sous peu.
@@ -2932,7 +2977,7 @@ Le 06/26/26 14:40 CEST, nous avons effectué un virement d’un montant de €
  207.53 sur le compte lié à votre méthode de paiement (compte bancaire se terminant par 229).
  Si le montant est inférieur au montant auquel vous vous attendiez, voici quelques questions à vous poser :
  Disposez-vous d’un solde de fonds non disponibles ? Amazon peut réserver des fonds afin de couvrir des retours, des réclamations ou des rétrofacturations potentiels des acheteurs. Si tel est le cas, le solde de fin de période de votre rapport sur les paiements affichera le solde des fonds non disponibles réservé.
- Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 06:53:58,RETR,xtbBpA0hB2o+j019pgAA3C
+ Vos ventes couvraient-elles l’ensemble des frais et des retours pour cette période de règlements ? Le montant du paiement reflète votre activité commerciale, les frais de vente et les frais relatifs aux promotions et aux services. Nous vous recommandons de consulter votre rapport sur les paiements sous l’onglet Rapports de Seller Central pour comprendre votre solde de fin de p",2026-07-20 15:10:52,RETR,xtbBpA0hB2o+j019pgAA3C
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Fri, 26 Jun 2026 14:07:09 +0000",Luana Camargo <notifications@insgly.net>,Worten Marketplace - Portugal y España,,"Hola Weihai EU,
 Soy Luana Camargo, Business Developer en Worten worten.pt / worten.es , el mayor marketplace de Portugal.
 Nuestro equipo de
@@ -2955,7 +3000,7 @@ Estaré encantado
 de ayudarle si tiene alguna pregunta.
 Muchas gracias,
 Saludos
-Cordiales",2026-07-20 06:53:56,RETR,xtbBpBAwFmo+h5BS2gAA3Z
+Cordiales",2026-07-20 15:10:50,RETR,xtbBpBAwFmo+h5BS2gAA3Z
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 22:31:41 +0000",Fulfillment by Amazon <no-reply@amazon.com>,Tus límites de capacidad de Logística de Amazon para julio,,"96
  Tus límites de capacidad de Logística de Amazon para julio
  Hola:
@@ -2979,7 +3024,7 @@ Cordiales",2026-07-20 06:53:56,RETR,xtbBpBAwFmo+h5BS2gAA3Z
  0.00
  0.00
  Cómo se establecen los límites de capacidad de Logística de Amazon
- Tus límites de capacidad dependen de tu puntuación del índice de desempeño de inventario y otros factores, como las proyecciones de ventas para tus ASIN, la capacidad del centro de distribución y el plazo de entrega de los envíos. Las estimaciones variarán en función de los cambios en tu puntuación del índice de desempeño de inventario y pueden au",2026-07-20 06:53:51,RETR,xtbBshEpD2o9rFEEwAAA3r
+ Tus límites de capacidad dependen de tu puntuación del índice de desempeño de inventario y otros factores, como las proyecciones de ventas para tus ASIN, la capacidad del centro de distribución y el plazo de entrega de los envíos. Las estimaciones variarán en función de los cambios en tu puntuación del índice de desempeño de inventario y pueden au",2026-07-20 15:10:46,RETR,xtbBshEpD2o9rFEEwAAA3r
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 01:48:42 +0000",Zespół Amazon Services <donotreply@amazon.com>,Łącze do zaktualizowanego raportu podatkowego dotyczącego Chin za okres od października do grudnia 2025 r.,,"96
  Ponownie przesyłamy kwartalny raport podatkowy, który obejmuje dane takie jak informacje o tożsamości, liczba transakcji, przychody oraz prowizje i opłaty za usługi.
  Dzień dobry,
@@ -2992,7 +3037,7 @@ Cordiales",2026-07-20 06:53:56,RETR,xtbBpBAwFmo+h5BS2gAA3Z
  Mogą wystąpić rozbieżności między danymi w tych raportach a raportem o płatnościach oraz raportem Amazon o transakcjach podlegających VAT. Każdy raport wykorzystuje odrębną metodologię i służy do innego celu.
  Będziemy nadal przekazywać kwartalne aktualizacje dotyczące danych udostępnianych chińskim organom podatkowym.
  Więcej informacji znajdziesz na stronie Wymogi dotyczące zgłaszania informacji podatkowych w Chinach .
- Uwaga :",2026-07-20 06:53:45,RETR,xtbBsxwL8Go8iPwYqAAA3G
+ Uwaga :",2026-07-20 15:10:38,RETR,xtbBsxwL8Go8iPwYqAAA3G
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Wed, 24 Jun 2026 10:01:00 +0000",The Fulfillment by Amazon team <donotreply@amazon.com>,Act today & improve Sales on Excess Inventory,,"96
 This title will display on mobile devices
  Optional preview text
@@ -3006,7 +3051,7 @@ We encourage you to take Amazon recommended actions such as Create Outlet deals,
  Sponsored Product Ads
  Sponsored Products is a cost-per-click advertising solution that provides advertisers with a foundation of controls and visibility to help get their individual products discovered, and help generate sales from traffic sources in the Amazon store and on select premium apps and websites.
  Create Sponsored Products Ad Today!
-We encourage you to view and execut",2026-07-20 06:53:44,RETR,xtbBpQBMMmo7quAZYAAA35
+We encourage you to view and execut",2026-07-20 15:10:36,RETR,xtbBpQBMMmo7quAZYAAA35
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 16:59:26 +0000",Zespół Amazon Services <donotreply@amazon.com>,Pobierz raport podatkowy dla Chin za okres od października do grudnia 2025 r.,,"96
  Możesz teraz pobrać kwartalny raport podatkowy, który zawiera dane, takie jak informacje identyfikacyjne, liczba transakcji, przychody oraz prowizje i opłaty za usługi.
  Dzień dobry,
@@ -3015,7 +3060,7 @@ We encourage you to view and execut",2026-07-20 06:53:44,RETR,xtbBpQBMMmo7quAZYA
  Ponownie wysyłamy Twój kwartalny raport podatkowy dla Chin. Poniższe linki będą aktywne przez siedem dni.
  Pobierz raport kwartalny
  Raport ten jest przeznaczony wyłącznie do wglądu. Nie jest wymagane żadne działanie.
- Udostępniliśmy również bardziej szczegółowy raport na poziomie zamówień, który przedstawia informacje kwartalne z podziałem na t",2026-07-20 06:53:40,RETR,xtbBshI0Gmo6u3L4aQAA3G
+ Udostępniliśmy również bardziej szczegółowy raport na poziomie zamówień, który przedstawia informacje kwartalne z podziałem na t",2026-07-20 15:10:33,RETR,xtbBshI0Gmo6u3L4aQAA3G
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Tue, 23 Jun 2026 00:26:49 +0000",Assistenza venditori Amazon <merch.service05@amazon.it>,<p>Grazie per aver creato un nuovo caso: -- 12908112692</p>,,"96
 <p>Grazie per aver creato un nuovo caso: -- 12908112692</p>
  La ringraziamo per aver contattato il Supporto al venditore di Amazon.
@@ -3025,7 +3070,7 @@ Per contattarci nuovamente riguardo a questo problema utilizzi il modulo di cont
  https://sellercentral-europe.amazon.com/cu/case-dashboard/view-case?caseID=12908112692
 Se desidera ricevere aiuto da altri venditori, può visitare il nostro Forum per i venditori a questo link: https://sellercentral.amazon.it/forums/
 La preghiamo di non rispondere a questo messaggio. Questa e-mail è stata inviata da un indirizzo che non accetta posta in entrata.
- Copyright 2026 Amazon.com, Inc. o le relative società affiliate. Tutti i diritti",2026-07-20 06:53:33,RETR,xtbBsgvPtWo50st0LwAA3S
+ Copyright 2026 Amazon.com, Inc. o le relative società affiliate. Tutti i diritti",2026-07-20 15:10:15,RETR,xtbBsgvPtWo50st0LwAA3S
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Mon, 22 Jun 2026 09:29:52 +0000",Amazon Europe <no-reply@sell.amazon.com>,Prime会员日明天开始：最后提报促销活动的机会,,"最大化您的 Prime Day 业绩
 尊敬的卖家，
 为 2026 年 Prime Day做好准备 - 为数百万 Prime 会员打造不容错过的优惠！加入我们今年6月为期4天活动。通过提交促销，确保充足库存，提升曝光度以助力您冲刺最佳业绩！
@@ -3044,7 +3089,7 @@ La preghiamo di non rispondere a questo messaggio. Questa e-mail è stata inviat
 <tr>
 <td style=""line-height:0px;font-size:0px;mso-line-height-rule:exactly;""><![endif]-->
 			<div style=""margin:0 auto;border-radius:0px;max-width:600px;"">
-			<table align=""ce",2026-07-20 06:53:31,RETR,xtbBsxYO82o5AJbVKgAA3i
+			<table align=""ce",2026-07-20 15:10:12,RETR,xtbBsxYO82o5AJbVKgAA3i
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Sun, 21 Jun 2026 12:49:43 +0000",Amazon Services <donotreply@amazon.com>,Pagamento elaborato con successo,,"96
 This title will display on mobile devices
  Congratulazioni. Il pagamento è stato elaborato con successo e ti sarà accreditato a breve.
@@ -3054,7 +3099,7 @@ In data 06/21/26 12:49 CEST, abbiamo avviato un trasferimento sul tuo metodo di 
  204,78.
  Se l’importo è inferiore a quanto atteso, tieni in considerazione le seguenti domande:
  Hai un saldo non disponibile? Amazon potrebbe trattenere una certa somma per coprire i costi di eventuali resi, reclami o contestazioni di una transazione (chargeback) da parte degli acquirenti. In questo caso, il saldo finale nel tuo report sui pagamenti mostrerà il saldo non disponibile corrispondente alla cifra trattenuta.
- Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 06:53:28,RETR,xtbBsgsaAGo33evTHwAA3E
+ Le tue vendite coprono tutte le commissioni e i resi per questo ciclo di fatturazione? L’importo del pagamento rispecchia le attività di vendita, le commissioni di vendita e le tariffe per promozioni o servizi. Ti consigliamo di rivedere il report sui pagamenti nella scheda Report di Seller Central per comprendere le diverse spese che ",2026-07-20 15:10:08,RETR,xtbBsgsaAGo33evTHwAA3E
 法务/侵权类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 10:18:43 +0000","""Amazon.de"" <store-news@amazon.de>",Dein Einkaufswagen wartet,,"https://www.amazon.de/gp/cart/view.html?ref_=cor
 Schwimmgurt für Pool, Schwimmhilfe Erwachsene Pool, Schwimmgurt Pool Erwachsene, Schwimmwiderstand Gürtel mit 2.5-7.5M Einstellbare Schwimmseil für Jedes Schwimmbad Ohne Gegenstromanlage
  -3 % 27,95 € UVP: 28,95 €
@@ -3070,7 +3115,7 @@ Feuerfeste Unterlage, 130 × 80cm Hitzebeständig bis 982 ℃ Hitzeschutzmatte, 
 https://www.amazon.de/gp/product/B0DRC8LPGS/?ref_=ci_mcx_mr_2p_1_lm
 Alckijy Feuerfeste Unterlage | 100 * 150cm Faltbare Hitzeschutzmatte | Bodenschutzmatte | Grillmatten | Bodenmatte | Grillteppich | Funkenschutzplatte | für BBQ Grills Kaminöfen Boden Rasen usw
 Befristetes Angebot -18 % 20,38 € UVP: 24,95 €
-h",2026-07-20 06:53:19,RETR,xtbBsgeDaWo2aQfssgAA3z
+h",2026-07-20 15:10:04,RETR,xtbBsgeDaWo2aQfssgAA3z
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 04:26:29 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-23,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3086,7 +3131,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orders, set up Automated Unfulfillable Removals function in your FBA",2026-07-20 06:55:22,RETR,xtbBshiehGpRxfjNlwAA3s
+ To avoid future manual inventory removal orders, set up Automated Unfulfillable Removals function in your FBA",2026-07-20 15:12:33,RETR,xtbBshiehGpRxfjNlwAA3s
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 04:08:56 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -3104,7 +3149,7 @@ This action is required because these unfulfillable items have remained in our f
  The Fulfilment by Amazon Team
  Report an issue with this email
  If you have any questions visit: Seller Central
- To change your email preferences visit: Notification Preferen",2026-07-20 06:55:22,RETR,xtbBsxqVe2pRwdrf4gAA3a
+ To change your email preferences visit: Notification Preferen",2026-07-20 15:12:33,RETR,xtbBsxqVe2pRwdrf4gAA3a
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 11 Jul 2026 03:06:39 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-23,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3122,7 +3167,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal ord",2026-07-20 06:55:21,RETR,xtbBswPr0WpRs0OGzAAA3L
+ To avoid future manual inventory removal ord",2026-07-20 15:12:33,RETR,xtbBswPr0WpRs0OGzAAA3L
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 4 Jul 2026 04:34:30 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -3141,7 +3186,7 @@ This action is required because these unfulfillable items have remained in our f
  The Fulfilment by Amazon Team
  Report an issue with this email
  If you have any questions visit: Seller Central
- To change your email preferen",2026-07-20 06:54:26,RETR,xtbBpBomDGpIjVoVjgAA36
+ To change your email preferen",2026-07-20 15:11:28,RETR,xtbBpBomDGpIjVoVjgAA36
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 4 Jul 2026 03:35:02 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-16,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3159,7 +3204,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orde",2026-07-20 06:54:26,RETR,xtbBswimjGpIf2jWMAAA3C
+ To avoid future manual inventory removal orde",2026-07-20 15:11:28,RETR,xtbBswimjGpIf2jWMAAA3C
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 4 Jul 2026 03:23:13 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-16,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3175,7 +3220,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orders, set up Automated Unfulfillable Removals function in your FBA",2026-07-20 06:54:25,RETR,xtbBswT02mpIfKTBwAAA3i
+ To avoid future manual inventory removal orders, set up Automated Unfulfillable Removals function in your FBA",2026-07-20 15:11:28,RETR,xtbBswT02mpIfKTBwAAA3i
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 27 Jun 2026 04:46:44 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -3194,7 +3239,7 @@ This action is required because these unfulfillable items have remained in our f
  The Fulfilment by Amazon Team
  Report an issue with this email
  If you have any questions visit: Seller Central
- To change your email preferen",2026-07-20 06:54:00,RETR,xtbBpRfs0mo-VbcwLQAA3m
+ To change your email preferen",2026-07-20 15:10:54,RETR,xtbBpRfs0mo-VbcwLQAA3m
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 27 Jun 2026 04:45:39 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -3213,7 +3258,7 @@ This action is required because these unfulfillable items have remained in our f
  To monitor your unfulfillable inventory, see the Manage FBA Inventory for total unsellable quantities or the Recommended Removal report for unsellable and aged inventory details.
  The Fulfilment by Amazon Team
  Report an issue with this email
- If you have any questions visit: Seller Centra",2026-07-20 06:54:00,RETR,xtbBpRbcwmo-VXYufwAA3K
+ If you have any questions visit: Seller Centra",2026-07-20 15:10:54,RETR,xtbBpRbcwmo-VXYufwAA3K
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 27 Jun 2026 03:25:54 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-09,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3230,7 +3275,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orders, set up Automated Unfulfillab",2026-07-20 06:54:00,RETR,xtbBswUsEmo-QsXGRwAA3b
+ To avoid future manual inventory removal orders, set up Automated Unfulfillab",2026-07-20 15:10:54,RETR,xtbBswUsEmo-QsXGRwAA3b
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 04:59:29 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Disposal order created for unsellable FBA inventory,,"96
 Automated Removals of Unfulfillable Inventory
  Final notice: Disposal order for your unfulfillable FBA inventory
@@ -3249,7 +3294,7 @@ This action is required because these unfulfillable items have remained in our f
  The Fulfilment by Amazon Team
  Report an issue with this email
  If you have any questions visit: Seller Central
- To change your email preferen",2026-07-20 06:53:18,RETR,xtbBpBW8omo2HjW6cwAA3R
+ To change your email preferen",2026-07-20 15:10:04,RETR,xtbBpBW8omo2HjW6cwAA3R
 货件/库存类,older,account_4,weihaizhongxin2024@126.com,"Sat, 20 Jun 2026 03:24:34 +0000",Fulfilment by Amazon <donotreply@amazon.com>,Create FBA removal order by 2026-07-02,,"96
 Automated removals of unfulfillable inventory
  Required removals: First notification
@@ -3266,7 +3311,7 @@ We leveraged a combination of automated means to identify this issue and make th
 Follow these steps to manage your unsellable inventory:
 - Check your complete list and quantity of unsellable items in the Manage FBA inventory .
 - Create a removal order (removal fees apply) by following the instructions in Remove inventory overview .
- To avoid future manual inventory removal orders, set up Automated Unfulfillab",2026-07-20 06:53:17,RETR,xtbBpRUnDWo2B-VSSAAA3u
+ To avoid future manual inventory removal orders, set up Automated Unfulfillab",2026-07-20 15:10:02,RETR,xtbBpRUnDWo2B-VSSAAA3u
 其他风险类,older,account_4,weihaizhongxin2024@126.com,"Mon, 6 Jul 2026 03:21:27 +0000","""Amazon Seller Central Communications (Do Not Reply)"" <donotreply@amazon.com>","[Amazon.co.uk] One or More of Your Amazon Listings Have Been Search
  Suppressed",,"96
 [Amazon.co.uk] One or More of Your Amazon Listings Have Been Search Suppressed
@@ -3279,7 +3324,7 @@ Follow these steps to manage your unsellable inventory:
  Review and edit the listing(s) on the Suppressed Inventory page in Seller Central to correct the affected attributes or images.
  Once the affected attributes or images have been corrected, the listing(s) will be removed from quarantine and made available in search results.
  Have your listings been quarantined by mistake?
- If you believe that there has been an error, please contact Amazon Selling Partner Support to provide details explaining how the listing(s) have not violat",2026-07-20 06:54:29,RETR,xtbBsxtDKWpLHzs1PgAA3M
+ If you believe that there has been an error, please contact Amazon Selling Partner Support to provide details explaining how the listing(s) have not violat",2026-07-20 15:11:33,RETR,xtbBsxtDKWpLHzs1PgAA3M
 其他风险类,older,account_4,weihaizhongxin2024@126.com,"Wed, 1 Jul 2026 00:16:50 +0000","""Amazon.com"" <donotreply@amazon.com>",View your US Q3-2026 CSBA fee rate,,"96
  (Important) CSBA US Fee rate for Q3-2026
  Review your updated Customer Service by Amazon fee rate and metrics
@@ -3304,7 +3349,7 @@ Follow these steps to manage your unsellable inventory:
 - Find ways to improve customer experience
 - Reduce contact and return rates
  Follow these practices to prevent customer confusion and minimize your workload:
-- Monitor the Response Needed inbox within the Buyer-Seller Messaging Service . In the rare case that we need your he",2026-07-20 06:54:10,RETR,xtbBpRbfxWpEXHZ5RgAA3S
+- Monitor the Response Needed inbox within the Buyer-Seller Messaging Service . In the rare case that we need your he",2026-07-20 15:11:13,RETR,xtbBpRbfxWpEXHZ5RgAA3S
 其他风险类,older,account_4,weihaizhongxin2024@126.com,"Thu, 25 Jun 2026 12:14:25 +0000",Sell with Amazon <no-reply@sell.amazon.com>,Connect with an Amazon expert at Seller Café—Save $100 with early-bird pricing,,"[Amazon logo](https://go.amazonsellerservices.com/e/229492/-ld-EM/7z46y96/6733799304/h/qLPgz01lmZlp6bu7C295K13RXyMwFkd7KKOkI6IliSc)
 [Partner Connect at Accelerate 2026](https://go.amazonsellerservices.com/e/229492/4uHYwMZ-ld-EM/7z46y99/6733799304/h/qLPgz01lmZlp6bu7C295K13RXyMwFkd7KKOkI6IliSc)
 Experts matched to your business needs
@@ -3315,4 +3360,4 @@ Join us from September 22 to 24, 2026, in Seattle, WA.
 2025 attendee
 How it works
 [A checkmark icon]
-Regi",2026-07-20 06:53:47,RETR,xtbBswTZv2o9G6QYAAAA3h
+Regi",2026-07-20 15:10:40,RETR,xtbBswTZv2o9G6QYAAAA3h
